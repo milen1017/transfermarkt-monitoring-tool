@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Noé Selano",
+    "position": "Right-Back",
+    "fromTeam": "Sp. Benguela",
+    "toTeam": "Wiliete SC",
+    "date": "Apr 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Apado Júnior",
+    "position": "Left Winger",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "GD Interclube",
+    "date": "Mar 9, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Mindinho",
+    "position": "Centre-Back",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "GD Interclube",
+    "date": "Mar 6, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Depaiza",
+    "position": "Left-Back",
+    "fromTeam": "CD Lunda Sul",
+    "toTeam": "SC Cabinda",
+    "date": "Mar 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jaime",
+    "position": "Attack",
+    "fromTeam": "CD Lunda Sul",
+    "toTeam": "Sagrada",
+    "date": "Mar 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Victorino Polaco",
+    "position": "Centre-Forward",
+    "fromTeam": "Sao Salvador",
+    "toTeam": "Sagrada",
+    "date": "Mar 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Dasfáa",
+    "position": "Right Winger",
+    "fromTeam": "Sagrada",
+    "toTeam": "Kabuscorp SC",
+    "date": "Mar 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Aisson",
+    "position": "Central Midfield",
+    "fromTeam": "Aca. Lobito",
+    "toTeam": "Kabuscorp SC",
+    "date": "Mar 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Cabibi",
+    "position": "Right Midfield",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Aca. Lobito",
+    "date": "Feb 24, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jefferson",
+    "position": "Left Winger",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Andraus",
+    "date": "Feb 8, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Messias Neves",
+    "position": "Defensive Midfield",
+    "fromTeam": "Cuando Cubango",
+    "toTeam": "Bravos do Maqui",
+    "date": "Feb 7, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Macaiabo",
+    "position": "Right Winger",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "Bravos do Maqui",
+    "date": "Feb 7, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Emmanuel Edmond",
+    "position": "Centre-Forward",
+    "fromTeam": "Without Club",
+    "toTeam": "Bravos do Maqui",
+    "date": "Feb 7, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Abednego Mosiatlhaga",
+    "position": "Right Winger",
+    "fromTeam": "Without Club",
+    "toTeam": "Bravos do Maqui",
+    "date": "Feb 7, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Almeida",
+    "position": "Central Midfield",
+    "fromTeam": "C.R.D. Libolo",
+    "toTeam": "Aca. Lobito",
+    "date": "Feb 6, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Telson Tomé",
+    "position": "Centre-Back",
+    "fromTeam": "Without Club",
+    "toTeam": "Wiliete SC",
+    "date": "Feb 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Kaly",
+    "position": "Centre-Back",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "FC Dila",
+    "date": "Feb 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Maya",
+    "position": "Central Midfield",
+    "fromTeam": "Gil Vicente U23",
+    "toTeam": "Petro Luanda",
+    "date": "Feb 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Simão",
+    "position": "Centre-Back",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Felgueiras",
+    "date": "Jan 31, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Julinho",
+    "position": "Centre-Forward",
+    "fromTeam": "Al-Akhdar SC",
+    "toTeam": "Petro Luanda",
+    "date": "Jan 26, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Patrick",
+    "position": "Attack",
+    "fromTeam": "Kabuscorp SC",
+    "toTeam": "Tabora United",
+    "date": "Jan 16, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Buba Jammeh",
+    "position": "Right Winger",
+    "fromTeam": "CF Estrela",
+    "toTeam": "GD Interclube",
+    "date": "Jan 14, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lamin Saidykhan",
+    "position": "Central Midfield",
+    "fromTeam": "Fortune FC",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jan 5, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "João Mucuia",
+    "position": "Right Winger",
+    "fromTeam": "Desp. Huíla",
+    "toTeam": "FC Serpa",
+    "date": "Jan 3, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Messias",
+    "position": "Right-Back",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Vizela Y19",
+    "date": "Jan 3, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Maria Pia",
+    "position": "Left Winger",
+    "fromTeam": "Aca. Lobito",
+    "toTeam": "Sao Salvador",
+    "date": "Jan 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jefer Gunjo",
+    "position": "Right Winger",
+    "fromTeam": "Sagrada",
+    "toTeam": "Lusitânia U19",
+    "date": "Jan 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Coio",
+    "position": "Goalkeeper",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Fiães",
+    "date": "Jan 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lau King",
+    "position": "Centre-Forward",
+    "fromTeam": "Sagrada",
+    "toTeam": "UD Songo",
+    "date": "Jan 1, 2024",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Pedro Mateus",
+    "position": "Attacking Midfield",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Ferrini",
+    "date": "Nov 15, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Alieu Barry",
+    "position": "Attack",
+    "fromTeam": "Fortune FC",
+    "toTeam": "Desp. Huíla",
+    "date": "Oct 5, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Álvaro da Silva",
+    "position": "Centre-Back",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Malanje",
+    "date": "Oct 2, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Samy",
+    "position": "Midfield",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Bravos do Maqui",
+    "date": "Oct 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Muíla",
+    "position": "Defensive Midfield",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "Kabuscorp SC",
+    "date": "Oct 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jorge",
+    "position": "Midfield",
+    "fromTeam": "Sagrada",
+    "toTeam": "Santa Rita CFC",
+    "date": "Oct 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Yano",
+    "position": "Centre-Forward",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Al-Ahli",
+    "date": "Sep 28, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Mamadou Sadio",
+    "position": "Defensive Midfield",
+    "fromTeam": "Sagrada",
+    "toTeam": "Desp. Huíla",
+    "date": "Sep 25, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Julinho",
+    "position": "Centre-Forward",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Al-Akhdar SC",
+    "date": "Sep 12, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Eri",
+    "position": "Right Winger",
+    "fromTeam": "Without Club",
+    "toTeam": "Petro Luanda",
+    "date": "Sep 8, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Landinho",
+    "position": "Goalkeeper",
+    "fromTeam": "Cuando Cubango",
+    "toTeam": "SC Cabinda",
+    "date": "Sep 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Kambi",
+    "position": "Defensive Midfield",
+    "fromTeam": "Kabuscorp SC",
+    "toTeam": "SC Cabinda",
+    "date": "Sep 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gaúcho",
+    "position": "Central Midfield",
+    "fromTeam": "Sp. Benguela",
+    "toTeam": "C.R.D. Libolo",
+    "date": "Sep 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Bolax",
+    "position": "Defender",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "Aca. Lobito",
+    "date": "Sep 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Débora Mavambo",
+    "position": "Attacking Midfield",
+    "fromTeam": "Aca. Lobito",
+    "toTeam": "Mutondo Stars",
+    "date": "Sep 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lau King",
+    "position": "Centre-Forward",
+    "fromTeam": "UD Songo",
+    "toTeam": "Sagrada",
+    "date": "Sep 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Bito",
+    "position": "Left Winger",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Guimarães B",
+    "date": "Sep 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Enoque",
+    "position": "Central Midfield",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Baladiya",
+    "date": "Aug 19, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Messinho",
+    "position": "Left Winger",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Isaac Benguela",
+    "date": "Aug 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "João Timóteo",
+    "position": "Attacking Midfield",
+    "fromTeam": "Unknown",
+    "toTeam": "Sao Salvador",
+    "date": "Aug 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Mano-Mano",
+    "position": "Attacking Midfield",
+    "fromTeam": "C.R.D. Libolo",
+    "toTeam": "AS Aviação",
+    "date": "Aug 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Vasco Inácio",
+    "position": "Centre-Back",
+    "fromTeam": "Aca. Lobito",
+    "toTeam": "Kabuscorp SC",
+    "date": "Aug 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Freddy Michael Kouablan",
+    "position": "Centre-Forward",
+    "fromTeam": "Desp. Huíla",
+    "toTeam": "Green Eagles FC",
+    "date": "Aug 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Vidinho",
+    "position": "Centre-Back",
+    "fromTeam": "Naft Missan",
+    "toTeam": "Petro Luanda",
+    "date": "Aug 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Abdel Latif Bamba",
+    "position": "Centre-Forward",
+    "fromTeam": "Sagrada",
+    "toTeam": "TS Galaxy FC",
+    "date": "Jul 30, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Alex Soares",
+    "position": "Central Midfield",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Estoril Praia",
+    "date": "Jul 30, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Oumar Toure",
+    "position": "Attacking Midfield",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Hlucin",
+    "date": "Jul 29, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lionel Yombi",
+    "position": "Centre-Forward",
+    "fromTeam": "Desp. Huíla",
+    "toTeam": "Juv. Évora",
+    "date": "Jul 28, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Alexandre Guedes",
+    "position": "Centre-Forward",
+    "fromTeam": "Paços Ferreira",
+    "toTeam": "Petro Luanda",
+    "date": "Jul 28, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gabriel Silva",
+    "position": "Defensive Midfield",
+    "fromTeam": "Sagrada",
+    "toTeam": "Louletano",
+    "date": "Jul 27, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Benarfa",
+    "position": "Centre-Forward",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 26, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jó Paciência",
+    "position": "Centre-Forward",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Cape Town City",
+    "date": "Jul 26, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Manuel Keliano",
+    "position": "Defensive Midfield",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "CF Estrela",
+    "date": "Jul 19, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gui Cungulo",
+    "position": "Defensive Midfield",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Kampala CC",
+    "date": "Jul 16, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Aires Emilson",
+    "position": "Centre-Back",
+    "fromTeam": "Desp. Huíla",
+    "toTeam": "Kampala CC",
+    "date": "Jul 16, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Vanilson",
+    "position": "Central Midfield",
+    "fromTeam": "Trofense",
+    "toTeam": "Petro Luanda",
+    "date": "Jul 15, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Yuri André",
+    "position": "Centre-Forward",
+    "fromTeam": "Lusitano Évora",
+    "toTeam": "GD Interclube",
+    "date": "Jul 13, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Simão",
+    "position": "Centre-Back",
+    "fromTeam": "Anadia FC",
+    "toTeam": "GD Interclube",
+    "date": "Jul 13, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Adó Pena",
+    "position": "Right Winger",
+    "fromTeam": "Desp. Huíla",
+    "toTeam": "Wiliete SC",
+    "date": "Jul 9, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gleison Moreira",
+    "position": "Right Winger",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Al-Khaldiya FC",
+    "date": "Jul 9, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Ito",
+    "position": "Defensive Midfield",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Al-Wehdat SC",
+    "date": "Jul 7, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Sebas",
+    "position": "Centre-Back",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gláucio Bicuila",
+    "position": "Attack",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Brazuca",
+    "position": "Defensive Midfield",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lindala",
+    "position": "Central Midfield",
+    "fromTeam": "C.R.D. Libolo",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Bugo Jesse",
+    "position": "Defensive Midfield",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Unknown",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Cedrick",
+    "position": "Attack",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gláucio Sayombe",
+    "position": "Midfield",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Isaías Agostinho",
+    "position": "Attacking Midfield",
+    "fromTeam": "C.R.D. Libolo",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Beni Fua",
+    "position": "Defensive Midfield",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Paulo",
+    "position": "Left Winger",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Barezó",
+    "position": "Centre-Back",
+    "fromTeam": "CD Lunda Sul",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lopes Simão",
+    "position": "Right-Back",
+    "fromTeam": "C.R.D. Libolo",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Viet",
+    "position": "Right Winger",
+    "fromTeam": "C.R.D. Libolo",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "António Lukeba",
+    "position": "Left Winger",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "Gendarmerie",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "António Silva",
+    "position": "Left Midfield",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Dié",
+    "position": "Defensive Midfield",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Aly Savane",
+    "position": "Central Midfield",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Cláudio Cruz",
+    "position": "Central Midfield",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gérson",
+    "position": "Midfield",
+    "fromTeam": "Luanda City",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Estevão",
+    "position": "Right-Back",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Dioguinho",
+    "position": "Left Winger",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Unknown",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Julião",
+    "position": "Goalkeeper",
+    "fromTeam": "Cuando Cubango",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Anselmo Mbala",
+    "position": "Goalkeeper",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lóló",
+    "position": "Defender",
+    "fromTeam": "Kabuscorp SC",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Amaro",
+    "position": "Right-Back",
+    "fromTeam": "Kabuscorp SC",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Dário",
+    "position": "Midfield",
+    "fromTeam": "Kabuscorp SC",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Kito",
+    "position": "Defender",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Matú",
+    "position": "Left-Back",
+    "fromTeam": "Kabuscorp SC",
+    "toTeam": "Aca. Lobito",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Felix Tayson",
+    "position": "Defender",
+    "fromTeam": "Sp. Benguela",
+    "toTeam": "Malanje",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Enoque Hebo Gonga",
+    "position": "Centre-Forward",
+    "fromTeam": "Unknown",
+    "toTeam": "Malanje",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lambito",
+    "position": "Goalkeeper",
+    "fromTeam": "Sagrada",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Vanilson",
+    "position": "Goalkeeper",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Zeca",
+    "position": "Right Winger",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Fernando Fonseca",
+    "position": "Centre-Back",
+    "fromTeam": "Unknown",
+    "toTeam": "Sao Salvador",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lazi",
+    "position": "Central Midfield",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Élber",
+    "position": "Goalkeeper",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Coração",
+    "position": "Attack",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Malanje",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Thierno Niang",
+    "position": "Centre-Forward",
+    "fromTeam": "Sagrada",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Bebo",
+    "position": "Defensive Midfield",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Malanje",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gibebé",
+    "position": "Attacking Midfield",
+    "fromTeam": "Dragão do Uíge",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Kantè",
+    "position": "Defensive Midfield",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Álvaro Manuel da Silva",
+    "position": "Centre-Back",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Malanje",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Beny",
+    "position": "Goalkeeper",
+    "fromTeam": "Guelson",
+    "toTeam": "Malanje",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Eliseu Calei",
+    "position": "Right-Back",
+    "fromTeam": "C.R.D. Libolo",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Melaba Japhet",
+    "position": "Left-Back",
+    "fromTeam": "Guelson",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Feliciano Castro",
+    "position": "Right Winger",
+    "fromTeam": "C.R.D. Libolo",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Tchabalala",
+    "position": "Midfield",
+    "fromTeam": "Ferrovia Huambo",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Teodoro Fernandes",
+    "position": "Right-Back",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Nani",
+    "position": "Right-Back",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Henriques Buinge",
+    "position": "Midfield",
+    "fromTeam": "Unknown",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Anderson",
+    "position": "Centre-Forward",
+    "fromTeam": "Unknown",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Isidor",
+    "position": "Attack",
+    "fromTeam": "Sp. Cabinda U20",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Dax",
+    "position": "Central Midfield",
+    "fromTeam": "GD Interclube",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jorge",
+    "position": "Goalkeeper",
+    "fromTeam": "Dragão do Uíge",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Bruno Raúl",
+    "position": "Left-Back",
+    "fromTeam": "Desp. Huíla",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jó Vidal",
+    "position": "Centre-Back",
+    "fromTeam": "Sagrada",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Aldair Garcia Domingos",
+    "position": "Centre-Back",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Filipe Tchitungo",
+    "position": "Right-Back",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jerónimo Abrão",
+    "position": "Midfield",
+    "fromTeam": "Kabuscorp SC",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Mona",
+    "position": "Right-Back",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Manilson",
+    "position": "Central Midfield",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Tavares Carvalho",
+    "position": "Left-Back",
+    "fromTeam": "Sp. Benguela",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Kazadi",
+    "position": "Midfield",
+    "fromTeam": "Unknown",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Leonel Correia",
+    "position": "Right Winger",
+    "fromTeam": "Cuando Cubango",
+    "toTeam": "Sao Salvador",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Elieve Duarte",
+    "position": "Attack",
+    "fromTeam": "Luanda City",
+    "toTeam": "Malanje",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Valdes",
+    "position": "Goalkeeper",
+    "fromTeam": "Unknown",
+    "toTeam": "Sao Salvador",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gui Matos",
+    "position": "Defensive Midfield",
+    "fromTeam": "Cuando Cubango",
+    "toTeam": "Sao Salvador",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Sebastião Adilson",
+    "position": "Centre-Back",
+    "fromTeam": "Norberto Castro",
+    "toTeam": "Sao Salvador",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Filhão",
+    "position": "Centre-Forward",
+    "fromTeam": "CD Lunda Sul",
+    "toTeam": "Sao Salvador",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Landú",
+    "position": "Goalkeeper",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Osvaldo Beny",
+    "position": "Left-Back",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "CD Lunda Sul",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Aisson",
+    "position": "Central Midfield",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Aca. Lobito",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lisandro",
+    "position": "Attacking Midfield",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Bruno Trindade",
+    "position": "Centre-Back",
+    "fromTeam": "CD Lunda Sul",
+    "toTeam": "GD Interclube",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Stony",
+    "position": "Left-Back",
+    "fromTeam": "Unknown",
+    "toTeam": "GD Interclube",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lucas Muller",
+    "position": "Goalkeeper",
+    "fromTeam": "1º Agosto U20",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Xavier Vunge",
+    "position": "Right-Back",
+    "fromTeam": "Cuando Cubango",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Moisés Domingos",
+    "position": "Centre-Back",
+    "fromTeam": "Dragão do Uíge",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Makiobo",
+    "position": "Defender",
+    "fromTeam": "Unknown",
+    "toTeam": "SC Cabinda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Josué",
+    "position": "Goalkeeper",
+    "fromTeam": "Kabuscorp SC",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Maranata Vunge",
+    "position": "Attacking Midfield",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "GD Ilha",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Nsesane",
+    "position": "Goalkeeper",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Wiliete SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jaime Candele",
+    "position": "Right-Back",
+    "fromTeam": "Dragão do Uíge",
+    "toTeam": "Santa Rita CFC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Álvaro Fernando Ndombele",
+    "position": "Centre-Back",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Santa Rita CFC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Manú Vunge",
+    "position": "Left-Back",
+    "fromTeam": "CD Lunda Sul",
+    "toTeam": "Santa Rita CFC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "João Vala",
+    "position": "Attacking Midfield",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Santa Rita CFC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Vicente Pedro",
+    "position": "Goalkeeper",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Aca. Lobito",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Adeba",
+    "position": "Defender",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "Santa Rita CFC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Laton",
+    "position": "Central Midfield",
+    "fromTeam": "Dragão do Uíge",
+    "toTeam": "Santa Rita CFC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Bráulio Manuel",
+    "position": "Centre-Back",
+    "fromTeam": "Cuando Cubango",
+    "toTeam": "Santa Rita CFC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Dalima",
+    "position": "Attack",
+    "fromTeam": "Unknown",
+    "toTeam": "Santa Rita CFC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Picas",
+    "position": "Attack",
+    "fromTeam": "Guelson",
+    "toTeam": "Santa Rita CFC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Fuca",
+    "position": "Right Winger",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "Santa Rita CFC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Nelinho",
+    "position": "Right Winger",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Caxito",
+    "position": "Goalkeeper",
+    "fromTeam": "Sp. Benguela",
+    "toTeam": "Santa Rita CFC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Florentino",
+    "position": "Centre-Forward",
+    "fromTeam": "Unknown",
+    "toTeam": "Petro Luanda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lutonda João Sebastião",
+    "position": "Left Winger",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Sao Salvador",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Cuca",
+    "position": "Midfield",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "CD Lunda Sul",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Kabila",
+    "position": "Right Winger",
+    "fromTeam": "CD Lunda Sul",
+    "toTeam": "C.R.D. Libolo",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Rachidi Asumani",
+    "position": "Central Midfield",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Bito",
+    "position": "Centre-Back",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Chukwumela Osah",
+    "position": "Defensive Midfield",
+    "fromTeam": "FC One Rocket",
+    "toTeam": "GD Interclube",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Lucas",
+    "position": "Attack",
+    "fromTeam": "Unknown",
+    "toTeam": "GD Interclube",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jose Ngunza Cabingano",
+    "position": "Left-Back",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Ervenécio Yaco",
+    "position": "Goalkeeper",
+    "fromTeam": "Unknown",
+    "toTeam": "CD Lunda Sul",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Carlos André Lutumba",
+    "position": "Midfield",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "C.R.D. Libolo",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jelson Neves",
+    "position": "Attack",
+    "fromTeam": "AS Aviação",
+    "toTeam": "C.R.D. Libolo",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Altura",
+    "position": "Centre-Back",
+    "fromTeam": "AS Aviação",
+    "toTeam": "C.R.D. Libolo",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Afonso Binga",
+    "position": "Right-Back",
+    "fromTeam": "Unknown",
+    "toTeam": "C.R.D. Libolo",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Benvindo Afonso",
+    "position": "Goalkeeper",
+    "fromTeam": "C.R.D. Libolo",
+    "toTeam": "CD Lunda Sul",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Cuxixima",
+    "position": "Right Winger",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "CD Lunda Sul",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Russinho",
+    "position": "Left Winger",
+    "fromTeam": "Sp. Benguela",
+    "toTeam": "Malanje",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Super",
+    "position": "Goalkeeper",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Malanje",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Keke",
+    "position": "Goalkeeper",
+    "fromTeam": "Caála",
+    "toTeam": "Malanje",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Manpé",
+    "position": "Centre-Back",
+    "fromTeam": "Caála",
+    "toTeam": "Malanje",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Geúda",
+    "position": "Right-Back",
+    "fromTeam": "Cuando Cubango",
+    "toTeam": "Sao Salvador",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Crespo",
+    "position": "Centre-Back",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "CD Lunda Sul",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Kelson",
+    "position": "Centre-Back",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "CD Lunda Sul",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "David Dieu",
+    "position": "Centre-Back",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "CD Lunda Sul",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Joca",
+    "position": "Right Winger",
+    "fromTeam": "Caála",
+    "toTeam": "Sagrada",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Aguinaldo Matias",
+    "position": "Midfield",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Mabele",
+    "position": "Left-Back",
+    "fromTeam": "Kabuscorp SC",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Vingumba",
+    "position": "Left Winger",
+    "fromTeam": "Ferrovia Huambo",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Clíver",
+    "position": "Attack",
+    "fromTeam": "AS Aviação",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Nathan",
+    "position": "Goalkeeper",
+    "fromTeam": "Aca. Lobito",
+    "toTeam": "Petro Luanda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gladison",
+    "position": "Centre-Forward",
+    "fromTeam": "Murcia Imperial",
+    "toTeam": "GD Interclube",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Cirilo Silva",
+    "position": "Right Winger",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Mig",
+    "position": "Goalkeeper",
+    "fromTeam": "CD Lunda Sul",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gazeta",
+    "position": "Left Winger",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Aca. Lobito",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Sozito",
+    "position": "Left-Back",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Aca. Lobito",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Makusa José",
+    "position": "Centre-Forward",
+    "fromTeam": "Without Club",
+    "toTeam": "Aca. Lobito",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Anderson Cruz",
+    "position": "Left Winger",
+    "fromTeam": "Rio Ave",
+    "toTeam": "Petro Luanda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Fabrício",
+    "position": "Centre-Back",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "Sagrada",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Fany",
+    "position": "Goalkeeper",
+    "fromTeam": "Sp. Benguela",
+    "toTeam": "C.R.D. Libolo",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Telmo",
+    "position": "Second Striker",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Aca. Lobito",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Seque",
+    "position": "Defensive Midfield",
+    "fromTeam": "Ferrovia Huambo",
+    "toTeam": "Aca. Lobito",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Maria Pia",
+    "position": "Left Winger",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Aca. Lobito",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jepson",
+    "position": "Attack",
+    "fromTeam": "Ferrovia Huambo",
+    "toTeam": "Aca. Lobito",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Mandinho",
+    "position": "Defensive Midfield",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Sintrense",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Carlos Balsa",
+    "position": "Centre-Back",
+    "fromTeam": "GD Interclube",
+    "toTeam": "Sintrense",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Mawiya Jiresse",
+    "position": "Centre-Forward",
+    "fromTeam": "1º de Agosto",
+    "toTeam": "Wiliete SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "João Mucuia",
+    "position": "Right Winger",
+    "fromTeam": "FC Serpa",
+    "toTeam": "Desp. Huíla",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Estevão",
+    "position": "Right-Back",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "GD Interclube",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Calebi Yanda",
+    "position": "Attacking Midfield",
+    "fromTeam": "GD Interclube",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Beni Papel",
+    "position": "Left Winger",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Sagrada",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Fofó",
+    "position": "Left Winger",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Kiyovu Sports",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Mayungo",
+    "position": "Right-Back",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "C.R.D. Libolo",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Muila Congolo",
+    "position": "Defensive Midfield",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "Kabuscorp SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Sada Diallo",
+    "position": "Right Winger",
+    "fromTeam": "Stade Malien",
+    "toTeam": "Sagrada",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Paizinho",
+    "position": "Centre-Forward",
+    "fromTeam": "Aca. Lobito",
+    "toTeam": "Desp. Huíla",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Edú",
+    "position": "Left-Back",
+    "fromTeam": "Aca. Lobito",
+    "toTeam": "Desp. Huíla",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Hugo Valdez",
+    "position": "Centre-Back",
+    "fromTeam": "Aca. Lobito",
+    "toTeam": "Bravos do Maqui",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Francis",
+    "position": "Central Midfield",
+    "fromTeam": "C.R.D. Libolo",
+    "toTeam": "Bravos do Maqui",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Vado Miguel",
+    "position": "Central Midfield",
+    "fromTeam": "Kabuscorp SC",
+    "toTeam": "Bravos do Maqui",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Manico",
+    "position": "Right Winger",
+    "fromTeam": "Desp. Huíla",
+    "toTeam": "Bravos do Maqui",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Nandinho",
+    "position": "Left Winger",
+    "fromTeam": "Desp. Huíla",
+    "toTeam": "Bravos do Maqui",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Malamba",
+    "position": "Right-Back",
+    "fromTeam": "Sagrada",
+    "toTeam": "Desp. Huíla",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Hanilton Nguala",
+    "position": "Defensive Midfield",
+    "fromTeam": "SC Cabinda",
+    "toTeam": "Desp. Huíla",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Dos Santos",
+    "position": "Defensive Midfield",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Desp. Huíla",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Beibe",
+    "position": "Central Midfield",
+    "fromTeam": "CD Lunda Sul",
+    "toTeam": "Desp. Huíla",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Gui",
+    "position": "Right Winger",
+    "fromTeam": "Santa Rita CFC",
+    "toTeam": "Sagrada",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Dabanda",
+    "position": "Right Winger",
+    "fromTeam": "Bravos do Maqui",
+    "toTeam": "Sagrada",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Guy Magema",
+    "position": "Left-Back",
+    "fromTeam": "AS Vita Club",
+    "toTeam": "Sagrada",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jacques Mangoba",
+    "position": "Centre-Back",
+    "fromTeam": "AS Vita Club",
+    "toTeam": "Sagrada",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Kaporal",
+    "position": "Centre-Forward",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Sagrada",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Ricky Tulengi",
+    "position": "Right Winger",
+    "fromTeam": "DC Motema Pembe",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Jefferson",
+    "position": "Left Winger",
+    "fromTeam": "Operário-MS",
+    "toTeam": "GD Interclube",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Mingo Bile",
+    "position": "Right Midfield",
+    "fromTeam": "Desp. Huíla",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "José Macaia",
+    "position": "Central Midfield",
+    "fromTeam": "Al-Merrikh SC",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Tchutchu",
+    "position": "Attacking Midfield",
+    "fromTeam": "Desp. Huíla",
+    "toTeam": "Petro Luanda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Beny",
+    "position": "Goalkeeper",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Desp. Huíla",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Karanga",
+    "position": "Right Winger",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Desp. Huíla",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Cabibi",
+    "position": "Right Midfield",
+    "fromTeam": "Petro Luanda",
+    "toTeam": "Wiliete SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Tony",
+    "position": "Goalkeeper",
+    "fromTeam": "Desp. Huíla",
+    "toTeam": "Wiliete SC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Apado Júnior",
+    "position": "Left Winger",
+    "fromTeam": "Wiliete SC",
+    "toTeam": "Petro Luanda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Benvindo Afonso",
+    "position": "Central Midfield",
+    "fromTeam": "Aca. Lobito",
+    "toTeam": "GD Interclube",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Obed Mukokiani",
+    "position": "Centre-Forward",
+    "fromTeam": "Maniema",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Merveille Kikasa",
+    "position": "Defensive Midfield",
+    "fromTeam": "AS Vita Club",
+    "toTeam": "1º de Agosto",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Diógenes João",
+    "position": "Right-Back",
+    "fromTeam": "Al-Ahli Ben.",
+    "toTeam": "Petro Luanda",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  },
+  {
+    "name": "Igor Villela",
+    "position": "Attacking Midfield",
+    "fromTeam": "Operário-MS",
+    "toTeam": "Bravos do Maqui",
+    "date": "Jul 1, 2023",
+    "leagueID": "AN1L"
+  }
+]

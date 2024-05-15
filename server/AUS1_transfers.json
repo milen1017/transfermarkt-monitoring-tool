@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Tiago Quintal",
+    "position": "Attacking Midfield",
+    "fromTeam": "Sydney FC II",
+    "toTeam": "Sydney FC",
+    "date": "Apr 24, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jayden Necovski",
+    "position": "Centre-Back",
+    "fromTeam": "M. City U21",
+    "toTeam": "Melbourne City",
+    "date": "Apr 24, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Giuseppe Bovalina",
+    "position": "Right-Back",
+    "fromTeam": "Adelaide United",
+    "toTeam": "Vancouver",
+    "date": "Apr 24, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Lachlan Middleton",
+    "position": "Central Midfield",
+    "fromTeam": "Sydney FC II",
+    "toTeam": "Sydney FC",
+    "date": "Apr 19, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Gabriel Sloane-Rodrigues",
+    "position": "Right Winger",
+    "fromTeam": "Phoenix Res.",
+    "toTeam": "Wellington",
+    "date": "Apr 16, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Fabian Talladira",
+    "position": "Left-Back",
+    "fromTeam": "Adelaide U21",
+    "toTeam": "Adelaide United",
+    "date": "Apr 3, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Oliver Randazzo",
+    "position": "Right Winger",
+    "fromTeam": "Bulls FC Ac.",
+    "toTeam": "Macarthur",
+    "date": "Mar 11, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Frans Deli",
+    "position": "Central Midfield",
+    "fromTeam": "Bulls FC Ac.",
+    "toTeam": "Macarthur",
+    "date": "Mar 11, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Franco Lino",
+    "position": "Left-Back",
+    "fromTeam": "Melbourne",
+    "toTeam": "Viking",
+    "date": "Feb 12, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Aaron Reardon",
+    "position": "Centre-Back",
+    "fromTeam": "Brisbane Roar",
+    "toTeam": "GC Knights",
+    "date": "Feb 10, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Ariath Piol",
+    "position": "Centre-Forward",
+    "fromTeam": "Bulls FC Ac.",
+    "toTeam": "Macarthur",
+    "date": "Feb 9, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Kasey Bos",
+    "position": "Left Winger",
+    "fromTeam": "Melb. Vic. U21",
+    "toTeam": "Melbourne",
+    "date": "Feb 8, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Vicente Fernández",
+    "position": "Left-Back",
+    "fromTeam": "CA Talleres",
+    "toTeam": "Melbourne City",
+    "date": "Feb 8, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Yaya Dukuly",
+    "position": "Right Winger",
+    "fromTeam": "Stade Reims B",
+    "toTeam": "Adelaide United",
+    "date": "Feb 7, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Luke Ivanovic",
+    "position": "Centre-Forward",
+    "fromTeam": "Perth Glory",
+    "toTeam": "FC Lahti",
+    "date": "Feb 6, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Tommy Smith",
+    "position": "Centre-Back",
+    "fromTeam": "MK Dons",
+    "toTeam": "Macarthur",
+    "date": "Feb 6, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Roly Bonevacia",
+    "position": "Central Midfield",
+    "fromTeam": "Without Club",
+    "toTeam": "Melbourne",
+    "date": "Feb 6, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Stefan Mauk",
+    "position": "Central Midfield",
+    "fromTeam": "Fagiano Okayama",
+    "toTeam": "Adelaide United",
+    "date": "Feb 2, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joe Gauci",
+    "position": "Goalkeeper",
+    "fromTeam": "Adelaide United",
+    "toTeam": "Aston Villa",
+    "date": "Feb 1, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Sonny Kittel",
+    "position": "Attacking Midfield",
+    "fromTeam": "Raków",
+    "toTeam": "Western Sydney",
+    "date": "Feb 1, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Marco Tilio",
+    "position": "Right Winger",
+    "fromTeam": "Celtic",
+    "toTeam": "Melbourne City",
+    "date": "Feb 1, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Rai Marchán",
+    "position": "Central Midfield",
+    "fromTeam": "Melbourne",
+    "toTeam": "Albacete",
+    "date": "Feb 1, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Alexandar Popovic",
+    "position": "Centre-Back",
+    "fromTeam": "Adelaide United",
+    "toTeam": "Gwangju FC",
+    "date": "Jan 31, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Aziz Behich",
+    "position": "Left-Back",
+    "fromTeam": "Melbourne City",
+    "toTeam": "Al-Nassr",
+    "date": "Jan 30, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "James Jeggo",
+    "position": "Defensive Midfield",
+    "fromTeam": "Hibernian FC",
+    "toTeam": "Melbourne City",
+    "date": "Jan 30, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Marco Rojas",
+    "position": "Right Winger",
+    "fromTeam": "Without Club",
+    "toTeam": "Brisbane Roar",
+    "date": "Jan 30, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Youstin Salas",
+    "position": "Defensive Midfield",
+    "fromTeam": "Saprissa",
+    "toTeam": "Wellington",
+    "date": "Jan 30, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Walter Scott",
+    "position": "Left-Back",
+    "fromTeam": "Wolves FC",
+    "toTeam": "Macarthur",
+    "date": "Jan 30, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joshua Rawlins",
+    "position": "Right-Back",
+    "fromTeam": "Utrecht U21",
+    "toTeam": "Perth Glory",
+    "date": "Jan 29, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Steven Hall",
+    "position": "Goalkeeper",
+    "fromTeam": "Adelaide United",
+    "toTeam": "Brighton U21",
+    "date": "Jan 26, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Ryan Edmondson",
+    "position": "Centre-Forward",
+    "fromTeam": "Carlisle United",
+    "toTeam": "Central Coast",
+    "date": "Jan 26, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Hamza Sakhi",
+    "position": "Attacking Midfield",
+    "fromTeam": "Melbourne City",
+    "toTeam": "AC Ajaccio",
+    "date": "Jan 25, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Cameron Windust",
+    "position": "Centre-Back",
+    "fromTeam": "Central Coast",
+    "toTeam": "Marc. Stallions",
+    "date": "Jan 23, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Nathan Konstandopoulos",
+    "position": "Central Midfield",
+    "fromTeam": "Melbourne",
+    "toTeam": "Heidelberg Utd.",
+    "date": "Jan 22, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Ronald Barcellos",
+    "position": "Right Winger",
+    "fromTeam": "Portimonense 23",
+    "toTeam": "Central Coast",
+    "date": "Jan 21, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Salim Khelifi",
+    "position": "Right Midfield",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Melbourne",
+    "date": "Jan 19, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Aaron McEneff",
+    "position": "Central Midfield",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Shamrock Rovers",
+    "date": "Jan 19, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Aydan Hammond",
+    "position": "Right Winger",
+    "fromTeam": "CCM Academy",
+    "toTeam": "Western Sydney",
+    "date": "Jan 18, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "George Antonis",
+    "position": "Defensive Midfield",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Sydney Olympic",
+    "date": "Jan 18, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Bernardo Oliveira",
+    "position": "Right Winger",
+    "fromTeam": "Adelaide United",
+    "toTeam": "Macarthur",
+    "date": "Jan 16, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Benjamin Mazzeo",
+    "position": "Right Winger",
+    "fromTeam": "M. City U21",
+    "toTeam": "Melbourne City",
+    "date": "Jan 16, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Hayden Matthews",
+    "position": "Centre-Back",
+    "fromTeam": "Sydney FC II",
+    "toTeam": "Sydney FC",
+    "date": "Jan 15, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Keegan Jelacic",
+    "position": "Attacking Midfield",
+    "fromTeam": "KAA Gent",
+    "toTeam": "Brisbane Roar",
+    "date": "Jan 12, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Hamza Sakhi",
+    "position": "Attacking Midfield",
+    "fromTeam": "AJ Auxerre",
+    "toTeam": "Melbourne City",
+    "date": "Jan 11, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Ryan Lethlean",
+    "position": "Centre-Back",
+    "fromTeam": "Melb. Vic. U21",
+    "toTeam": "Brisbane Roar",
+    "date": "Jan 11, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Taiga Oliver Harper",
+    "position": "Goalkeeper",
+    "fromTeam": "Reysol U18",
+    "toTeam": "Western Sydney",
+    "date": "Jan 11, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Oliver Bozanic",
+    "position": "Central Midfield",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Western Sydney",
+    "date": "Jan 10, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Hamza Sakhi",
+    "position": "Attacking Midfield",
+    "fromTeam": "Melbourne City",
+    "toTeam": "AJ Auxerre",
+    "date": "Jan 10, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joseph Forde",
+    "position": "Right-Back",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Waterford FC",
+    "date": "Jan 8, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Marco Túlio",
+    "position": "Centre-Forward",
+    "fromTeam": "Central Coast",
+    "toTeam": "Kyoto Sanga",
+    "date": "Jan 8, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jonathan Aspropotamitis",
+    "position": "Centre-Back",
+    "fromTeam": "Macarthur",
+    "toTeam": "Pohang Steelers",
+    "date": "Jan 5, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jackson Manuel",
+    "position": "Central Midfield",
+    "fromTeam": "Wellington",
+    "toTeam": "Western Springs",
+    "date": "Jan 2, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joel Anasmo",
+    "position": "Right Winger",
+    "fromTeam": "Unknown",
+    "toTeam": "Perth Glory",
+    "date": "Jan 1, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Noah James",
+    "position": "Goalkeeper",
+    "fromTeam": "Newcastle",
+    "toTeam": "Sydney Olympic",
+    "date": "Jan 1, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Dean Larson",
+    "position": "Centre-Back",
+    "fromTeam": "Central Coast",
+    "toTeam": "Preston Lions FC",
+    "date": "Jan 1, 2024",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Brad Tapp",
+    "position": "Defensive Midfield",
+    "fromTeam": "CCM Academy",
+    "toTeam": "Central Coast",
+    "date": "Dec 29, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Alby Kelly-Heald",
+    "position": "Goalkeeper",
+    "fromTeam": "Phoenix Res.",
+    "toTeam": "Wellington",
+    "date": "Dec 19, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Matthew Sheridan",
+    "position": "Right-Back",
+    "fromTeam": "Phoenix Res.",
+    "toTeam": "Wellington",
+    "date": "Dec 19, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Sebastian Esposito",
+    "position": "Centre-Back",
+    "fromTeam": "Melbourne City",
+    "toTeam": "Lecce U19",
+    "date": "Dec 15, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Edward Caspers",
+    "position": "Central Midfield",
+    "fromTeam": "Macarthur",
+    "toTeam": "APIA Leichhardt",
+    "date": "Dec 13, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Kealey Adamson",
+    "position": "Right-Back",
+    "fromTeam": "Sydney FC II",
+    "toTeam": "Macarthur",
+    "date": "Dec 7, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Valentino Yuel",
+    "position": "Left Winger",
+    "fromTeam": "Without Club",
+    "toTeam": "Western Sydney",
+    "date": "Dec 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joseph Lacey",
+    "position": "Attacking Midfield",
+    "fromTeam": "Sydney FC II",
+    "toTeam": "Sydney FC",
+    "date": "Nov 27, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Austin Ayoubi",
+    "position": "Central Midfield",
+    "fromTeam": "North Eastern Metro Stars",
+    "toTeam": "Adelaide United",
+    "date": "Nov 20, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Antonee Burke-Gilroy",
+    "position": "Right-Back",
+    "fromTeam": "Without Club",
+    "toTeam": "Brisbane Roar",
+    "date": "Nov 9, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Bailey Brandtman",
+    "position": "Centre-Forward",
+    "fromTeam": "CCM Academy",
+    "toTeam": "Central Coast",
+    "date": "Oct 30, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Nicholas Duarte",
+    "position": "Centre-Forward",
+    "fromTeam": "CCM Academy",
+    "toTeam": "Central Coast",
+    "date": "Oct 30, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Nathan Paull",
+    "position": "Centre-Back",
+    "fromTeam": "CCM Academy",
+    "toTeam": "Central Coast",
+    "date": "Oct 25, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Michael Vonja",
+    "position": "Goalkeeper",
+    "fromTeam": "Western Utd U21",
+    "toTeam": "Western United",
+    "date": "Oct 24, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jack Gibson",
+    "position": "Goalkeeper",
+    "fromTeam": "West Sydney II",
+    "toTeam": "Western Sydney",
+    "date": "Oct 20, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Aaron Reardon",
+    "position": "Centre-Back",
+    "fromTeam": "GC Knights",
+    "toTeam": "Brisbane Roar",
+    "date": "Sep 28, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Luke Supyk",
+    "position": "Centre-Forward",
+    "fromTeam": "Phoenix Res.",
+    "toTeam": "Wellington",
+    "date": "Sep 27, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Nikita Rukavytsya",
+    "position": "Centre-Forward",
+    "fromTeam": "Maccabi Haifa",
+    "toTeam": "Western United",
+    "date": "Sep 27, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Aleksandar Prijovic",
+    "position": "Centre-Forward",
+    "fromTeam": "Western United",
+    "toTeam": "Without Club",
+    "date": "Sep 27, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Harry Politidis",
+    "position": "Left-Back",
+    "fromTeam": "M. City U21",
+    "toTeam": "Melbourne City",
+    "date": "Sep 25, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Wataru Kamijo",
+    "position": "Central Midfield",
+    "fromTeam": "Sydney FC U21",
+    "toTeam": "Sydney FC",
+    "date": "Sep 22, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jonas Markovski",
+    "position": "Centre-Forward",
+    "fromTeam": "Altona Magic",
+    "toTeam": "Brisbane Roar",
+    "date": "Sep 20, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Shae Cahill",
+    "position": "Central Midfield",
+    "fromTeam": "Without Club",
+    "toTeam": "Brisbane Roar",
+    "date": "Sep 19, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Gabriel Lacerda",
+    "position": "Centre-Back",
+    "fromTeam": "Ceará SC",
+    "toTeam": "Sydney FC",
+    "date": "Sep 19, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Ryan Tunnicliffe",
+    "position": "Central Midfield",
+    "fromTeam": "Without Club",
+    "toTeam": "Adelaide United",
+    "date": "Sep 19, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Rylan Brownlie",
+    "position": "Centre-Forward",
+    "fromTeam": "Brisbane U21",
+    "toTeam": "Brisbane Roar",
+    "date": "Sep 18, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jorrit Hendrix",
+    "position": "Defensive Midfield",
+    "fromTeam": "Without Club",
+    "toTeam": "Western Sydney",
+    "date": "Sep 16, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jordan Courtney-Perkins",
+    "position": "Left-Back",
+    "fromTeam": "Raków",
+    "toTeam": "Sydney FC",
+    "date": "Sep 15, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Quinn MacNicol",
+    "position": "Central Midfield",
+    "fromTeam": "Brisbane U21",
+    "toTeam": "Brisbane Roar",
+    "date": "Sep 15, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Léo Natel",
+    "position": "Left Winger",
+    "fromTeam": "Corinthians",
+    "toTeam": "Melbourne City",
+    "date": "Sep 15, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Antonis Martis",
+    "position": "Central Midfield",
+    "fromTeam": "Sutherland",
+    "toTeam": "Perth Glory",
+    "date": "Sep 15, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Isaac Hughes",
+    "position": "Centre-Back",
+    "fromTeam": "Phoenix Res.",
+    "toTeam": "Wellington",
+    "date": "Sep 13, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Oliver Bozanic",
+    "position": "Central Midfield",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Perth Glory",
+    "date": "Sep 13, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jarrod Carluccio",
+    "position": "Right Winger",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Perth Glory",
+    "date": "Sep 13, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Ryan Teague",
+    "position": "Defensive Midfield",
+    "fromTeam": "Famalicão U23",
+    "toTeam": "Melbourne",
+    "date": "Sep 13, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Kike Cadete",
+    "position": "Left-Back",
+    "fromTeam": "Melbourne",
+    "toTeam": "Dinamo Tbilisi",
+    "date": "Sep 13, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Yianni Nicolaou",
+    "position": "Right-Back",
+    "fromTeam": "APIA Leichhardt",
+    "toTeam": "Macarthur",
+    "date": "Sep 12, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Riley Warland",
+    "position": "Left-Back",
+    "fromTeam": "Perth RedStar",
+    "toTeam": "Perth Glory",
+    "date": "Sep 12, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Nathan Grimaldi",
+    "position": "Centre-Back",
+    "fromTeam": "Sutherland",
+    "toTeam": "Newcastle",
+    "date": "Sep 12, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Justin Vidic",
+    "position": "Centre-Forward",
+    "fromTeam": "Marc. Stallions",
+    "toTeam": "Newcastle",
+    "date": "Sep 12, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Fábio Gomes",
+    "position": "Centre-Forward",
+    "fromTeam": "Atlético-MG",
+    "toTeam": "Sydney FC",
+    "date": "Sep 12, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Zac Bowling",
+    "position": "Goalkeeper",
+    "fromTeam": "Altona Magic",
+    "toTeam": "Newcastle",
+    "date": "Sep 12, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Craig Goodwin",
+    "position": "Left Winger",
+    "fromTeam": "Adelaide United",
+    "toTeam": "Al-Wehda",
+    "date": "Sep 7, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Bailey O'Neil",
+    "position": "Left-Back",
+    "fromTeam": "Adelaide U21",
+    "toTeam": "Adelaide United",
+    "date": "Sep 6, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Giuseppe Bovalina",
+    "position": "Right-Back",
+    "fromTeam": "Adelaide U21",
+    "toTeam": "Adelaide United",
+    "date": "Sep 6, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Panagiotis Kikianis",
+    "position": "Centre-Back",
+    "fromTeam": "Adelaide U21",
+    "toTeam": "Adelaide United",
+    "date": "Sep 6, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Louis D'Arrigo",
+    "position": "Defensive Midfield",
+    "fromTeam": "Adelaide United",
+    "toTeam": "Lechia Gdansk",
+    "date": "Sep 4, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Fabian Monge",
+    "position": "Defensive Midfield",
+    "fromTeam": "APIA Leichhardt",
+    "toTeam": "Melbourne",
+    "date": "Sep 4, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Christian Siciliano",
+    "position": "Goalkeeper",
+    "fromTeam": "Melb. Vic. U21",
+    "toTeam": "Melbourne",
+    "date": "Sep 4, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Bruce Kamau",
+    "position": "Right Winger",
+    "fromTeam": "OFI Crete FC",
+    "toTeam": "Perth Glory",
+    "date": "Sep 4, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Dylan Scicluna",
+    "position": "Central Midfield",
+    "fromTeam": "Wolves U21",
+    "toTeam": "Western Sydney",
+    "date": "Sep 3, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "James Bayliss",
+    "position": "Defensive Midfield",
+    "fromTeam": "Central Coast",
+    "toTeam": "Marc. Stallions",
+    "date": "Sep 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Yeni Ngbakoto",
+    "position": "Right Winger",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Vejle BK",
+    "date": "Sep 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Aleksandar Susnjar",
+    "position": "Centre-Back",
+    "fromTeam": "Novi Pazar",
+    "toTeam": "Perth Glory",
+    "date": "Sep 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Adrian Segecic",
+    "position": "Right Winger",
+    "fromTeam": "Sydney FC",
+    "toTeam": "FC Dordrecht",
+    "date": "Aug 30, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Ángel Torres",
+    "position": "Right Winger",
+    "fromTeam": "Balzan FC",
+    "toTeam": "Central Coast",
+    "date": "Aug 30, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jason Berthomier",
+    "position": "Attacking Midfield",
+    "fromTeam": "Valenciennes FC",
+    "toTeam": "Newcastle",
+    "date": "Aug 29, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Matthew Grimaldi",
+    "position": "Attacking Midfield",
+    "fromTeam": "Western Utd U21",
+    "toTeam": "Western United",
+    "date": "Aug 28, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Will Wilson",
+    "position": "Central Midfield",
+    "fromTeam": "Melbourne",
+    "toTeam": "Central Coast",
+    "date": "Aug 26, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Adrián Sardinero",
+    "position": "Left Winger",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Algeciras CF",
+    "date": "Aug 18, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Hamza Sakhi",
+    "position": "Attacking Midfield",
+    "fromTeam": "AJ Auxerre",
+    "toTeam": "Melbourne City",
+    "date": "Aug 17, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Marcel Canadi",
+    "position": "Attacking Midfield",
+    "fromTeam": "Brisbane Roar",
+    "toTeam": "Hebar P.",
+    "date": "Aug 16, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joshua Laws",
+    "position": "Centre-Back",
+    "fromTeam": "Wellington",
+    "toTeam": "Grasshoppers",
+    "date": "Aug 15, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "James McGarry",
+    "position": "Left-Back",
+    "fromTeam": "Central Coast",
+    "toTeam": "Aberdeen FC",
+    "date": "Aug 11, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Florin Bérenguer",
+    "position": "Attacking Midfield",
+    "fromTeam": "Melbourne City",
+    "toTeam": "Brisbane Roar",
+    "date": "Aug 11, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Danijel Nizic",
+    "position": "Goalkeeper",
+    "fromTeam": "Sydney United",
+    "toTeam": "Macarthur",
+    "date": "Aug 10, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Zinédine Machach",
+    "position": "Attacking Midfield",
+    "fromTeam": "Ionikos Nikeas",
+    "toTeam": "Melbourne",
+    "date": "Aug 8, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Aziz Behich",
+    "position": "Left-Back",
+    "fromTeam": "Dundee United",
+    "toTeam": "Melbourne City",
+    "date": "Aug 6, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jordan Elsey",
+    "position": "Centre-Back",
+    "fromTeam": "Perth Glory",
+    "toTeam": "East Bengal FC",
+    "date": "Aug 5, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Yan Sasse",
+    "position": "Attacking Midfield",
+    "fromTeam": "Wellington",
+    "toTeam": "Esperance",
+    "date": "Aug 4, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joe Caletti",
+    "position": "Defensive Midfield",
+    "fromTeam": "Tochigi City",
+    "toTeam": "Brisbane Roar",
+    "date": "Aug 3, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Fin Conchie",
+    "position": "Central Midfield",
+    "fromTeam": "Phoenix Res.",
+    "toTeam": "Wellington",
+    "date": "Aug 2, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Thomas Waddingham",
+    "position": "Centre-Forward",
+    "fromTeam": "Brisbane U21",
+    "toTeam": "Brisbane Roar",
+    "date": "Aug 2, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Noah Smith",
+    "position": "Left-Back",
+    "fromTeam": "Brisbane Roar",
+    "toTeam": "Central Coast",
+    "date": "Aug 2, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Marin Jakolis",
+    "position": "Left Winger",
+    "fromTeam": "Angers SCO",
+    "toTeam": "Melbourne City",
+    "date": "Aug 2, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Mikael Doka",
+    "position": "Right-Back",
+    "fromTeam": "Santos B",
+    "toTeam": "Central Coast",
+    "date": "Aug 2, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Béni Nkololo",
+    "position": "Right Winger",
+    "fromTeam": "Central Coast",
+    "toTeam": "Al-Orobah",
+    "date": "Aug 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Manabu Saito",
+    "position": "Left Winger",
+    "fromTeam": "Newcastle",
+    "toTeam": "Vegalta Sendai",
+    "date": "Jul 31, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Bachana Arabuli",
+    "position": "Centre-Forward",
+    "fromTeam": "Macarthur",
+    "toTeam": "Neftchi",
+    "date": "Jul 31, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Tomislav Mrcela",
+    "position": "Centre-Back",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Neftchi",
+    "date": "Jul 28, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Ryan Williams",
+    "position": "Right Midfield",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Bengaluru FC",
+    "date": "Jul 28, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Stefan Scepovic",
+    "position": "Centre-Forward",
+    "fromTeam": "Brisbane Roar",
+    "toTeam": "Muangthong Utd.",
+    "date": "Jul 27, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Thomas Lam",
+    "position": "Centre-Back",
+    "fromTeam": "Melbourne City",
+    "toTeam": "PEC Zwolle",
+    "date": "Jul 25, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Riku Danzaki",
+    "position": "Left Winger",
+    "fromTeam": "Motherwell FC",
+    "toTeam": "Western United",
+    "date": "Jul 24, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Calem Nieuwenhof",
+    "position": "Defensive Midfield",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Heart of Midl.",
+    "date": "Jul 22, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Alen Harbas",
+    "position": "Centre-Forward",
+    "fromTeam": "Sydney FC",
+    "toTeam": "FC KTP",
+    "date": "Jul 21, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Nikko Boxall",
+    "position": "Centre-Back",
+    "fromTeam": "Wellington",
+    "toTeam": "FC Inter",
+    "date": "Jul 20, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Daniel Penha",
+    "position": "Attacking Midfield",
+    "fromTeam": "Atlético-MG B",
+    "toTeam": "Western United",
+    "date": "Jul 19, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Nathan Amanatidis",
+    "position": "Left Winger",
+    "fromTeam": "Adelaide U21",
+    "toTeam": "Sydney FC",
+    "date": "Jul 18, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Léo Lacroix",
+    "position": "Centre-Back",
+    "fromTeam": "Western United",
+    "toTeam": "FC U Craiova",
+    "date": "Jul 17, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Al Hassan Touré",
+    "position": "Centre-Forward",
+    "fromTeam": "Macarthur",
+    "toTeam": "Eyüpspor",
+    "date": "Jul 17, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Alen Harbas",
+    "position": "Centre-Forward",
+    "fromTeam": "Sydney FC II",
+    "toTeam": "Sydney FC",
+    "date": "Jul 16, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joe Knowles",
+    "position": "Right Winger",
+    "fromTeam": "Brisbane Roar",
+    "toTeam": "Hyderabad FC",
+    "date": "Jul 15, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jing Reec",
+    "position": "Centre-Forward",
+    "fromTeam": "Aarhus GF",
+    "toTeam": "Central Coast",
+    "date": "Jul 14, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Valère Germain",
+    "position": "Centre-Forward",
+    "fromTeam": "Montpellier",
+    "toTeam": "Macarthur",
+    "date": "Jul 14, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Doni Grdic",
+    "position": "Centre-Back",
+    "fromTeam": "HNK Sibenik",
+    "toTeam": "Western Sydney",
+    "date": "Jul 13, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Adama Traoré",
+    "position": "Left-Back",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Melbourne",
+    "date": "Jul 13, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Nani",
+    "position": "Left Winger",
+    "fromTeam": "Melbourne",
+    "toTeam": "Adana Demirspor",
+    "date": "Jul 13, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Zac de Jesus",
+    "position": "Right-Back",
+    "fromTeam": "Sydney FC U21",
+    "toTeam": "Sydney FC",
+    "date": "Jul 12, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jaylan Pearman",
+    "position": "Attacking Midfield",
+    "fromTeam": "Perth Glory U21",
+    "toTeam": "Perth Glory",
+    "date": "Jul 10, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Daniel Bennie",
+    "position": "Left Winger",
+    "fromTeam": "Perth Glory U21",
+    "toTeam": "Perth Glory",
+    "date": "Jul 10, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Paul Ayongo",
+    "position": "Centre-Forward",
+    "fromTeam": "Central Coast",
+    "toTeam": "Hesperange",
+    "date": "Jul 10, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Alou Kuol",
+    "position": "Centre-Forward",
+    "fromTeam": "VfB Stuttgart",
+    "toTeam": "Central Coast",
+    "date": "Jul 10, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Samuel Souprayen",
+    "position": "Centre-Back",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "Melbourne City",
+    "date": "Jul 10, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joshua Brillante",
+    "position": "Defensive Midfield",
+    "fromTeam": "Melbourne",
+    "toTeam": "Western Sydney",
+    "date": "Jul 9, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Daniel Arzani",
+    "position": "Right Winger",
+    "fromTeam": "Macarthur",
+    "toTeam": "Melbourne",
+    "date": "Jul 9, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Nick Suman",
+    "position": "Goalkeeper",
+    "fromTeam": "Macarthur",
+    "toTeam": "Cove Rangers",
+    "date": "Jul 9, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Connor Pain",
+    "position": "Left Winger",
+    "fromTeam": "Western United",
+    "toTeam": "Al-Orobah",
+    "date": "Jul 8, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Marcus Younis",
+    "position": "Right Winger",
+    "fromTeam": "West Sydney II",
+    "toTeam": "Western Sydney",
+    "date": "Jul 8, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Tom Glover",
+    "position": "Goalkeeper",
+    "fromTeam": "Melbourne City",
+    "toTeam": "Middlesbrough",
+    "date": "Jul 7, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Sam Silvera",
+    "position": "Left Winger",
+    "fromTeam": "Central Coast",
+    "toTeam": "Middlesbrough",
+    "date": "Jul 7, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Apostolos Stamatelopoulos",
+    "position": "Centre-Forward",
+    "fromTeam": "PAS Giannina",
+    "toTeam": "Newcastle",
+    "date": "Jul 7, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Kerrin Stokes",
+    "position": "Centre-Back",
+    "fromTeam": "Melbourne City",
+    "toTeam": "Adelaide City",
+    "date": "Jul 7, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Lukas Kelly-Heald",
+    "position": "Left-Back",
+    "fromTeam": "Phoenix Res.",
+    "toTeam": "Wellington",
+    "date": "Jul 6, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Mitch Glasson",
+    "position": "Centre-Forward",
+    "fromTeam": "Sydney FC II",
+    "toTeam": "Sydney FC",
+    "date": "Jul 6, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Kane Vidmar",
+    "position": "Centre-Back",
+    "fromTeam": "Adelaide U21",
+    "toTeam": "Western United",
+    "date": "Jul 6, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Terry Antonis",
+    "position": "Defensive Midfield",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Melbourne City",
+    "date": "Jul 6, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Diego Caballo",
+    "position": "Left-Back",
+    "fromTeam": "Sydney FC",
+    "toTeam": "Aalborg BK",
+    "date": "Jul 5, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Anthony Pantazopoulos",
+    "position": "Centre-Back",
+    "fromTeam": "Oakleigh Cannon",
+    "toTeam": "Western Sydney",
+    "date": "Jul 5, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jordi Valadon",
+    "position": "Defensive Midfield",
+    "fromTeam": "Melb. Vic. U21",
+    "toTeam": "Melbourne",
+    "date": "Jul 5, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Richard van der Venne",
+    "position": "Attacking Midfield",
+    "fromTeam": "Melbourne City",
+    "toTeam": "FC St. Gallen",
+    "date": "Jul 5, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "James Donachie",
+    "position": "Centre-Back",
+    "fromTeam": "Sydney FC",
+    "toTeam": "Western United",
+    "date": "Jul 4, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jamie Young",
+    "position": "Goalkeeper",
+    "fromTeam": "Western United",
+    "toTeam": "Melbourne City",
+    "date": "Jul 4, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joshua Inserra",
+    "position": "Centre-Back",
+    "fromTeam": "Melb. Vic. U21",
+    "toTeam": "Melbourne",
+    "date": "Jul 3, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Kristian Popovic",
+    "position": "Defensive Midfield",
+    "fromTeam": "Medjimurje",
+    "toTeam": "Macarthur",
+    "date": "Jul 3, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Alex Parsons",
+    "position": "Right Winger",
+    "fromTeam": "Sydney FC",
+    "toTeam": "Brisbane Roar",
+    "date": "Jul 3, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Matt Acton",
+    "position": "Goalkeeper",
+    "fromTeam": "Melbourne",
+    "toTeam": "Brisbane Roar",
+    "date": "Jul 3, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Kusini Yengi",
+    "position": "Centre-Forward",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Portsmouth",
+    "date": "Jul 2, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Matheus Moresche",
+    "position": "Centre-Forward",
+    "fromTeam": "Central Coast",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Luke Oresti",
+    "position": "Attacking Midfield",
+    "fromTeam": "Melbourne City",
+    "toTeam": "CCM Academy",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Asad Kasumovic",
+    "position": "Centre-Forward",
+    "fromTeam": "Adelaide United",
+    "toTeam": "Oakleigh Cannon",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "George Blackwood",
+    "position": "Centre-Forward",
+    "fromTeam": "Adelaide United",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Corey Brown",
+    "position": "Left-Back",
+    "fromTeam": "Without Club",
+    "toTeam": "Brisbane Roar",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jordan Holmes",
+    "position": "Goalkeeper",
+    "fromTeam": "Brisbane Roar",
+    "toTeam": "Rochedale Rovers",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Franco Lino",
+    "position": "Left-Back",
+    "fromTeam": "Melb. Vic. U21",
+    "toTeam": "Melbourne",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Marco Tilio",
+    "position": "Right Winger",
+    "fromTeam": "Melbourne City",
+    "toTeam": "Celtic",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Marcus Antonsson",
+    "position": "Centre-Forward",
+    "fromTeam": "Al-Adalah",
+    "toTeam": "Western Sydney",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "George Timotheou",
+    "position": "Centre-Back",
+    "fromTeam": "Melbourne",
+    "toTeam": "Gungahlin Utd.",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "George Antonis",
+    "position": "Defensive Midfield",
+    "fromTeam": "West Sydney II",
+    "toTeam": "Western Sydney",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Gus Hoefsloot",
+    "position": "Goalkeeper",
+    "fromTeam": "Sydney FC II",
+    "toTeam": "Sydney FC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Rahmat Akbari",
+    "position": "Central Midfield",
+    "fromTeam": "Brisbane Roar",
+    "toTeam": "Torpedo Kutaisi",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jason Cummings",
+    "position": "Centre-Forward",
+    "fromTeam": "Central Coast",
+    "toTeam": "Mohun Bagan SG",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Paulo Retre",
+    "position": "Defensive Midfield",
+    "fromTeam": "Sydney FC",
+    "toTeam": "FC Goa",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Lachlan Bayliss",
+    "position": "Attacking Midfield",
+    "fromTeam": "Central Coast",
+    "toTeam": "Newcastle",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joel King",
+    "position": "Left-Back",
+    "fromTeam": "Odense BK",
+    "toTeam": "Sydney FC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Zane Schreiber",
+    "position": "Central Midfield",
+    "fromTeam": "Sydney FC II",
+    "toTeam": "Melbourne City",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Yaren Sözer",
+    "position": "Goalkeeper",
+    "fromTeam": "Central Coast",
+    "toTeam": "St. George FA",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Clayton Taylor",
+    "position": "Left Winger",
+    "fromTeam": "Sydney FC II",
+    "toTeam": "Newcastle",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Matthew Scarcella",
+    "position": "Central Midfield",
+    "fromTeam": "Sydney FC II",
+    "toTeam": "Sydney FC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Sebastian Esposito",
+    "position": "Centre-Back",
+    "fromTeam": "M. City U21",
+    "toTeam": "Melbourne City",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Antonee Burke-Gilroy",
+    "position": "Right-Back",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jack Clisby",
+    "position": "Left-Back",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Western Sydney",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Matt Hatch",
+    "position": "Central Midfield",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Marc. Stallions",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Mitchell Oxborrow",
+    "position": "Defensive Midfield",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Kingsway",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jacob Young",
+    "position": "Centre-Back",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Joshua Hong",
+    "position": "Centre-Back",
+    "fromTeam": "Central Coast",
+    "toTeam": "West Sydney II",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Patrick Beach",
+    "position": "Goalkeeper",
+    "fromTeam": "CCM Academy",
+    "toTeam": "Melbourne City",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Rhys Williams",
+    "position": "Centre-Back",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Tolgay Arslan",
+    "position": "Central Midfield",
+    "fromTeam": "Udinese Calcio",
+    "toTeam": "Melbourne City",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Adam Le Fondre",
+    "position": "Centre-Forward",
+    "fromTeam": "Sydney FC",
+    "toTeam": "Hibernian FC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Aiden O'Neill",
+    "position": "Defensive Midfield",
+    "fromTeam": "Melbourne City",
+    "toTeam": "Standard Liège",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Matthew Jurman",
+    "position": "Centre-Back",
+    "fromTeam": "Newcastle",
+    "toTeam": "Macarthur",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Moudi Najjar",
+    "position": "Centre-Forward",
+    "fromTeam": "Macarthur",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Matt Sutton",
+    "position": "Goalkeeper",
+    "fromTeam": "Melbourne City",
+    "toTeam": "Western United",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Raphael Borges Rodrigues",
+    "position": "Left Winger",
+    "fromTeam": "Melbourne City",
+    "toTeam": "Macarthur",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Nectarios Triantis",
+    "position": "Centre-Back",
+    "fromTeam": "Central Coast",
+    "toTeam": "Sunderland",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jack Duncan",
+    "position": "Goalkeeper",
+    "fromTeam": "Newcastle",
+    "toTeam": "Wellington",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Alessandro Lopane",
+    "position": "Attacking Midfield",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Melbourne City",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Lachlan Brook",
+    "position": "Right Winger",
+    "fromTeam": "Brentford B",
+    "toTeam": "Western Sydney",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Alex Wilkinson",
+    "position": "Centre-Back",
+    "fromTeam": "Sydney FC",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Keegan Jelacic",
+    "position": "Attacking Midfield",
+    "fromTeam": "Perth Glory",
+    "toTeam": "KAA Gent",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Scott Jamieson",
+    "position": "Left-Back",
+    "fromTeam": "Melbourne City",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Tom Heward-Belle",
+    "position": "Goalkeeper",
+    "fromTeam": "Sydney FC",
+    "toTeam": "Western United",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Romain Amalfitano",
+    "position": "Central Midfield",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Brad Jones",
+    "position": "Goalkeeper",
+    "fromTeam": "Perth Glory",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Juande Prados",
+    "position": "Defensive Midfield",
+    "fromTeam": "Adelaide United",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Craig Noone",
+    "position": "Right Winger",
+    "fromTeam": "Macarthur",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Aleksandar Susnjar",
+    "position": "Centre-Back",
+    "fromTeam": "Macarthur",
+    "toTeam": "Novi Pazar",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Dylan Pierias",
+    "position": "Right Winger",
+    "fromTeam": "Western United",
+    "toTeam": "Western Sydney",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Robbie Kruse",
+    "position": "Left Winger",
+    "fromTeam": "Brisbane Roar",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Josh Brindell-South",
+    "position": "Right-Back",
+    "fromTeam": "Brisbane Roar",
+    "toTeam": "Lions FC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Ryan Scott",
+    "position": "Goalkeeper",
+    "fromTeam": "Western United",
+    "toTeam": "Newcastle",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "James Troisi",
+    "position": "Attacking Midfield",
+    "fromTeam": "Western United",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Adisu Bayew",
+    "position": "Left Winger",
+    "fromTeam": "Western United",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Neil Kilkenny",
+    "position": "Defensive Midfield",
+    "fromTeam": "Western United",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Tongo Doumbia",
+    "position": "Defensive Midfield",
+    "fromTeam": "Western United",
+    "toTeam": "Tuwaiq FC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Callan Elliot",
+    "position": "Right-Back",
+    "fromTeam": "Wellington",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jordan Bos",
+    "position": "Left-Back",
+    "fromTeam": "Melbourne City",
+    "toTeam": "KVC Westerlo",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Angus Thurgate",
+    "position": "Central Midfield",
+    "fromTeam": "Newcastle",
+    "toTeam": "Western United",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Mohamed Al-Taay",
+    "position": "Defensive Midfield",
+    "fromTeam": "Newcastle",
+    "toTeam": "Wellington",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Beka Mikeltadze",
+    "position": "Centre-Forward",
+    "fromTeam": "Newcastle",
+    "toTeam": "Gwangju FC",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Tomi Juric",
+    "position": "Centre-Forward",
+    "fromTeam": "Melbourne",
+    "toTeam": "Without Club",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Nikolai Topor-Stanley",
+    "position": "Centre-Back",
+    "fromTeam": "Western United",
+    "toTeam": "Retired",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Jack Warshawsky",
+    "position": "Goalkeeper",
+    "fromTeam": "West Sydney II",
+    "toTeam": "Central Coast",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  },
+  {
+    "name": "Daniel Wilmering",
+    "position": "Left-Back",
+    "fromTeam": "Western Sydney",
+    "toTeam": "Newcastle",
+    "date": "Jul 1, 2023",
+    "leagueID": "AUS1"
+  }
+]

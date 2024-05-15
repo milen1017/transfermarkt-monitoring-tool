@@ -1,0 +1,2002 @@
+[
+  {
+    "name": "Krasian Kolev",
+    "position": "Central Midfield",
+    "fromTeam": "Hebar P.",
+    "toTeam": "Botev Plovdiv",
+    "date": "May 8, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Vidar Örn Kjartansson",
+    "position": "Centre-Forward",
+    "fromTeam": "CSKA 1948",
+    "toTeam": "KA Akureyri",
+    "date": "Apr 5, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Aleksandar Mishov",
+    "position": "Centre-Forward",
+    "fromTeam": "Without Club",
+    "toTeam": "Etar",
+    "date": "Mar 22, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Jaisen Clifford",
+    "position": "Centre-Forward",
+    "fromTeam": "Without Club",
+    "toTeam": "Etar",
+    "date": "Mar 20, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Cristhian Mendoza",
+    "position": "Central Midfield",
+    "fromTeam": "Loko Plovdiv",
+    "toTeam": "Ureña SC",
+    "date": "Mar 13, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Martin Petkov",
+    "position": "Centre-Forward",
+    "fromTeam": "Without Club",
+    "toTeam": "Loko Plovdiv",
+    "date": "Mar 11, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Aboubacar Toungara",
+    "position": "Attacking Midfield",
+    "fromTeam": "Arda Kardzhali",
+    "toTeam": "Suwon Bluewings",
+    "date": "Mar 7, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Kevin Mayi",
+    "position": "Centre-Forward",
+    "fromTeam": "Without Club",
+    "toTeam": "Loko Sofia",
+    "date": "Mar 4, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Petar Marinov",
+    "position": "Goalkeeper",
+    "fromTeam": "CSKA 1948 II",
+    "toTeam": "CSKA 1948",
+    "date": "Mar 3, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Francisco Sagardia",
+    "position": "Centre-Forward",
+    "fromTeam": "Without Club",
+    "toTeam": "Beroe",
+    "date": "Mar 2, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Emmanuel John",
+    "position": "Centre-Back",
+    "fromTeam": "FDC Vista",
+    "toTeam": "Botev Plovdiv",
+    "date": "Feb 29, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Nehemie Kintuntu",
+    "position": "Attacking Midfield",
+    "fromTeam": "Without Club",
+    "toTeam": "Botev Plovdiv",
+    "date": "Feb 29, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Everton Bala",
+    "position": "Right Winger",
+    "fromTeam": "Mirassol-SP",
+    "toTeam": "Levski Sofia",
+    "date": "Feb 29, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Christian Nwachukwu",
+    "position": "Right Winger",
+    "fromTeam": "FDC Vista",
+    "toTeam": "Botev Plovdiv",
+    "date": "Feb 29, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Matijus Remeikis",
+    "position": "Central Midfield",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "Panevezys",
+    "date": "Feb 28, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ilian Iliev",
+    "position": "Attacking Midfield",
+    "fromTeam": "Apol. Limassol",
+    "toTeam": "Cherno More",
+    "date": "Feb 28, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Galin Minkov",
+    "position": "Left-Back",
+    "fromTeam": "Loko Sofia",
+    "toTeam": "Dunav",
+    "date": "Feb 28, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Vitalijs Jagodinskis",
+    "position": "Centre-Back",
+    "fromTeam": "RFS",
+    "toTeam": "Pirin",
+    "date": "Feb 28, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Matijus Remeikis",
+    "position": "Central Midfield",
+    "fromTeam": "Panevezys",
+    "toTeam": "Botev Plovdiv",
+    "date": "Feb 27, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Gustavo Cascardo",
+    "position": "Right-Back",
+    "fromTeam": "Beroe",
+    "toTeam": "Arda Kardzhali",
+    "date": "Feb 27, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Amadou Doumbouya",
+    "position": "Right Winger",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "Aktobe",
+    "date": "Feb 26, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Cheikh Diamanka",
+    "position": "Centre-Forward",
+    "fromTeam": "Without Club",
+    "toTeam": "Hebar P.",
+    "date": "Feb 23, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Robert Mazan",
+    "position": "Left-Back",
+    "fromTeam": "Hebar P.",
+    "toTeam": "Panevezys",
+    "date": "Feb 23, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Isaac Solet",
+    "position": "Central Midfield",
+    "fromTeam": "Progresul Sp.",
+    "toTeam": "Slavia Sofia",
+    "date": "Feb 22, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ivaylo Markov",
+    "position": "Centre-Back",
+    "fromTeam": "UTA Arad",
+    "toTeam": "Slavia Sofia",
+    "date": "Feb 22, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Alex Fernandes",
+    "position": "Right Winger",
+    "fromTeam": "Cherno More",
+    "toTeam": "Baltika",
+    "date": "Feb 21, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Nathan Holder",
+    "position": "Defensive Midfield",
+    "fromTeam": "Levski Sofia",
+    "toTeam": "Sportist Svoge",
+    "date": "Feb 21, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Darlan",
+    "position": "Defensive Midfield",
+    "fromTeam": "Levski Sofia",
+    "toTeam": "WH Three Towns",
+    "date": "Feb 20, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Martin Bachev",
+    "position": "Centre-Back",
+    "fromTeam": "Pirin",
+    "toTeam": "Botev Vratsa",
+    "date": "Feb 20, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Plamen Dimov",
+    "position": "Centre-Back",
+    "fromTeam": "Etar",
+    "toTeam": "Eolikos",
+    "date": "Feb 20, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Jefferson Granado",
+    "position": "Right-Back",
+    "fromTeam": "Krumovgrad",
+    "toTeam": "Botev II",
+    "date": "Feb 18, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Krasian Kolev",
+    "position": "Central Midfield",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "Hebar P.",
+    "date": "Feb 16, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ivaylo Chochev",
+    "position": "Central Midfield",
+    "fromTeam": "CSKA 1948",
+    "toTeam": "Ludogorets",
+    "date": "Feb 15, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Brian Esalo",
+    "position": "Centre-Forward",
+    "fromTeam": "Without Club",
+    "toTeam": "Pirin",
+    "date": "Feb 15, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Michael Estrada",
+    "position": "Centre-Forward",
+    "fromTeam": "CSKA-Sofia",
+    "toTeam": "Toluca",
+    "date": "Feb 15, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Hugo Ozée",
+    "position": "Centre-Back",
+    "fromTeam": "Racing CFF",
+    "toTeam": "Krumovgrad",
+    "date": "Feb 14, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Patrik Myslovic",
+    "position": "Attacking Midfield",
+    "fromTeam": "MSK Zilina",
+    "toTeam": "Levski Sofia",
+    "date": "Feb 14, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Velislav Vasilev",
+    "position": "Right Winger",
+    "fromTeam": "Cherno More",
+    "toTeam": "Yantra",
+    "date": "Feb 14, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Andreias Calcan",
+    "position": "Left Winger",
+    "fromTeam": "U Cluj",
+    "toTeam": "Cherno More",
+    "date": "Feb 14, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Gorka Larrucea",
+    "position": "Central Midfield",
+    "fromTeam": "FC Dinamo",
+    "toTeam": "Etar",
+    "date": "Feb 14, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Boyan Zagorski",
+    "position": "Goalkeeper",
+    "fromTeam": "Vihren",
+    "toTeam": "Hebar P.",
+    "date": "Feb 14, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Johan N'zi",
+    "position": "Attacking Midfield",
+    "fromTeam": "Spartak Varna",
+    "toTeam": "Hebar P.",
+    "date": "Feb 14, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Nikolay Hristov",
+    "position": "Left Winger",
+    "fromTeam": "Grorud",
+    "toTeam": "Slavia Sofia",
+    "date": "Feb 13, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Siriky Diabaté",
+    "position": "Centre-Back",
+    "fromTeam": "Amiens SC",
+    "toTeam": "Botev Plovdiv",
+    "date": "Feb 13, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Edwin Laszo",
+    "position": "Defensive Midfield",
+    "fromTeam": "Beroe",
+    "toTeam": "Without Club",
+    "date": "Feb 12, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Kelyan Guessoum",
+    "position": "Centre-Back",
+    "fromTeam": "Nîmes Olympique",
+    "toTeam": "Etar",
+    "date": "Feb 12, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Lamine Tall",
+    "position": "Centre-Forward",
+    "fromTeam": "Angri",
+    "toTeam": "Krumovgrad",
+    "date": "Feb 11, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Welton",
+    "position": "Left Winger",
+    "fromTeam": "Levski Sofia",
+    "toTeam": "Gamba Osaka",
+    "date": "Feb 11, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Georgi Karakashev",
+    "position": "Central Midfield",
+    "fromTeam": "Loko Plovdiv",
+    "toTeam": "Hebar P.",
+    "date": "Feb 10, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Lazar Boyanov",
+    "position": "Centre-Back",
+    "fromTeam": "Esp. Lagos",
+    "toTeam": "Pirin",
+    "date": "Feb 10, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Martin Lukov",
+    "position": "Goalkeeper",
+    "fromTeam": "Without Club",
+    "toTeam": "Loko Plovdiv",
+    "date": "Feb 9, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Krasimir Todorov",
+    "position": "Attacking Midfield",
+    "fromTeam": "Botev Vratsa",
+    "toTeam": "Tabor Sezana",
+    "date": "Feb 9, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Mark-Emilio Papazov",
+    "position": "Centre-Forward",
+    "fromTeam": "CSKA-Sofia",
+    "toTeam": "Hebar P.",
+    "date": "Feb 9, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Duckens Nazon",
+    "position": "Centre-Forward",
+    "fromTeam": "CSKA-Sofia",
+    "toTeam": "Kayserispor",
+    "date": "Feb 9, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Igor Plastun",
+    "position": "Centre-Back",
+    "fromTeam": "Ludogorets",
+    "toTeam": "Ordabasy",
+    "date": "Feb 9, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Dani Martín",
+    "position": "Left-Back",
+    "fromTeam": "UD Melilla",
+    "toTeam": "Cherno More",
+    "date": "Feb 9, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Miki Orachev",
+    "position": "Left-Back",
+    "fromTeam": "CSKA 1948",
+    "toTeam": "Loko Sofia",
+    "date": "Feb 9, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Marcel Canadi",
+    "position": "Attacking Midfield",
+    "fromTeam": "Hebar P.",
+    "toTeam": "Without Club",
+    "date": "Feb 8, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Kristijan Sekulic",
+    "position": "Goalkeeper",
+    "fromTeam": "Rudar Prijedor",
+    "toTeam": "Etar",
+    "date": "Feb 8, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Aleksandar Veselinski",
+    "position": "Attacking Midfield",
+    "fromTeam": "Lincoln U18",
+    "toTeam": "Cherno More",
+    "date": "Feb 7, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Celso Raposo",
+    "position": "Right-Back",
+    "fromTeam": "PS Kalamata",
+    "toTeam": "Loko Sofia",
+    "date": "Feb 6, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Borislav Tsonev",
+    "position": "Attacking Midfield",
+    "fromTeam": "DL Pro",
+    "toTeam": "Arda Kardzhali",
+    "date": "Feb 6, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Chinonso Offor",
+    "position": "Centre-Forward",
+    "fromTeam": "Montréal",
+    "toTeam": "Arda Kardzhali",
+    "date": "Feb 5, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Boris Tyutyukov",
+    "position": "Left Winger",
+    "fromTeam": "Pirin",
+    "toTeam": "Arda Kardzhali",
+    "date": "Feb 5, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Félix Eboa Eboa",
+    "position": "Centre-Back",
+    "fromTeam": "Without Club",
+    "toTeam": "Arda Kardzhali",
+    "date": "Feb 4, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Levi Ntumba",
+    "position": "Goalkeeper",
+    "fromTeam": "Without Club",
+    "toTeam": "CSKA 1948",
+    "date": "Feb 2, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Antoine Baroan",
+    "position": "Centre-Forward",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "FC Winterthur",
+    "date": "Feb 2, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Danylo Polonskyi",
+    "position": "Attacking Midfield",
+    "fromTeam": "Fratria",
+    "toTeam": "Pirin",
+    "date": "Feb 2, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Evgeni Georgiev",
+    "position": "Attacking Midfield",
+    "fromTeam": "Pirin U19",
+    "toTeam": "Pirin",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Radoslav Naydenov",
+    "position": "Attacking Midfield",
+    "fromTeam": "Etar II",
+    "toTeam": "Etar",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Atanas Atanasov",
+    "position": "Attacking Midfield",
+    "fromTeam": "Etar II",
+    "toTeam": "Etar",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Rosen Bozhinov",
+    "position": "Centre-Back",
+    "fromTeam": "CSKA 1948 II",
+    "toTeam": "CSKA 1948",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Aleksandar Buchkov",
+    "position": "Right-Back",
+    "fromTeam": "CSKA-Sofia",
+    "toTeam": "Litex Lovech",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Petar Ivanov",
+    "position": "Right-Back",
+    "fromTeam": "Cherno More",
+    "toTeam": "C. Balchik",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Angel Angelov",
+    "position": "Left Winger",
+    "fromTeam": "Cherno More",
+    "toTeam": "Dob. Dobrich",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Oussama Alou",
+    "position": "Attacking Midfield",
+    "fromTeam": "Etar",
+    "toTeam": "Without Club",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Joaquín Fernández",
+    "position": "Centre-Back",
+    "fromTeam": "CA Atenas",
+    "toTeam": "Levski Sofia",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Kléri Serber",
+    "position": "Central Midfield",
+    "fromTeam": "Toulouse",
+    "toTeam": "Botev Vratsa",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Franco Russo",
+    "position": "Centre-Back",
+    "fromTeam": "Ludogorets",
+    "toTeam": "OH Leuven",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Olaus Skarsem",
+    "position": "Central Midfield",
+    "fromTeam": "Rosenborg",
+    "toTeam": "CSKA-Sofia",
+    "date": "Feb 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Junior Djile",
+    "position": "Left Winger",
+    "fromTeam": "Botev Vratsa",
+    "toTeam": "Al-Hamriyah",
+    "date": "Jan 31, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Yohan Baï",
+    "position": "Right Winger",
+    "fromTeam": "SC Bastia",
+    "toTeam": "Loko Plovdiv",
+    "date": "Jan 31, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Mitchy Ntelo",
+    "position": "Centre-Forward",
+    "fromTeam": "R Charleroi SC",
+    "toTeam": "Loko Plovdiv",
+    "date": "Jan 30, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Jeremy Petris",
+    "position": "Right-Back",
+    "fromTeam": "Levski Sofia",
+    "toTeam": "R Charleroi SC",
+    "date": "Jan 30, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Matheus Souza",
+    "position": "Centre-Forward",
+    "fromTeam": "Al-Waab SC",
+    "toTeam": "Krumovgrad",
+    "date": "Jan 30, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Bismark Charles",
+    "position": "Centre-Forward",
+    "fromTeam": "CSKA-Sofia",
+    "toTeam": "Zeljeznicar",
+    "date": "Jan 30, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Didis Lutumba-Pitah",
+    "position": "Left Winger",
+    "fromTeam": "Hegelmann",
+    "toTeam": "Etar",
+    "date": "Jan 30, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Oumar Sako",
+    "position": "Centre-Back",
+    "fromTeam": "Arda Kardzhali",
+    "toTeam": "Rostov",
+    "date": "Jan 30, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ronaldo Camará",
+    "position": "Attacking Midfield",
+    "fromTeam": "Feirense",
+    "toTeam": "Beroe",
+    "date": "Jan 30, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Dominik Yankov",
+    "position": "Attacking Midfield",
+    "fromTeam": "Ludogorets",
+    "toTeam": "Montréal",
+    "date": "Jan 29, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Moussa Diallo",
+    "position": "Right-Back",
+    "fromTeam": "Servette FC",
+    "toTeam": "Beroe",
+    "date": "Jan 29, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ivan Vasilev",
+    "position": "Centre-Forward",
+    "fromTeam": "Yantra",
+    "toTeam": "Etar",
+    "date": "Jan 29, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Matvei Igonen",
+    "position": "Goalkeeper",
+    "fromTeam": "Hebar P.",
+    "toTeam": "Botev Plovdiv",
+    "date": "Jan 27, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Bruno Schmutz",
+    "position": "Right Winger",
+    "fromTeam": "Beroe",
+    "toTeam": "FC Schaffhausen",
+    "date": "Jan 27, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Témitope Akinjogunla",
+    "position": "Right-Back",
+    "fromTeam": "Without Club",
+    "toTeam": "Beroe",
+    "date": "Jan 26, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Martin Stoychev",
+    "position": "Right-Back",
+    "fromTeam": "Septemvri Sofia",
+    "toTeam": "CSKA-Sofia",
+    "date": "Jan 26, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Mounir Chouiar",
+    "position": "Left Winger",
+    "fromTeam": "Ludogorets",
+    "toTeam": "Amiens SC",
+    "date": "Jan 26, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Daniil Kondrakov",
+    "position": "Centre-Forward",
+    "fromTeam": "Pirin",
+    "toTeam": "Sliema Wander.",
+    "date": "Jan 26, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Juan Salomoni",
+    "position": "Centre-Back",
+    "fromTeam": "Guillermo Brown",
+    "toTeam": "Beroe",
+    "date": "Jan 25, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Javier Esteban-Silgo",
+    "position": "Attacking Midfield",
+    "fromTeam": "Agia Napa",
+    "toTeam": "Beroe",
+    "date": "Jan 25, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Jose Arias",
+    "position": "Centre-Back",
+    "fromTeam": "Beroe",
+    "toTeam": "Ovarense",
+    "date": "Jan 25, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Martin Stoychev",
+    "position": "Right-Back",
+    "fromTeam": "Arda Kardzhali",
+    "toTeam": "Septemvri Sofia",
+    "date": "Jan 25, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Vladimir Medved",
+    "position": "Left Midfield",
+    "fromTeam": "Pirin",
+    "toTeam": "Loko Plovdiv",
+    "date": "Jan 24, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Bruno Garcia",
+    "position": "Right Winger",
+    "fromTeam": "Krumovgrad",
+    "toTeam": "Zakho SC",
+    "date": "Jan 24, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Martin Achkov",
+    "position": "Left-Back",
+    "fromTeam": "Septemvri Sofia",
+    "toTeam": "Botev Vratsa",
+    "date": "Jan 23, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Leandro Godoy",
+    "position": "Centre-Forward",
+    "fromTeam": "Beroe",
+    "toTeam": "Defensa",
+    "date": "Jan 23, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Preslav Borukov",
+    "position": "Centre-Forward",
+    "fromTeam": "Arda Kardzhali",
+    "toTeam": "Marítimo",
+    "date": "Jan 23, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Carlos Ohene",
+    "position": "Defensive Midfield",
+    "fromTeam": "Hebar P.",
+    "toTeam": "Levski Sofia",
+    "date": "Jan 22, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Petar Petrov",
+    "position": "Goalkeeper",
+    "fromTeam": "Without Club",
+    "toTeam": "Arda Kardzhali",
+    "date": "Jan 22, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Joachim Carcela-Gonzalez",
+    "position": "Central Midfield",
+    "fromTeam": "Without Club",
+    "toTeam": "Etar",
+    "date": "Jan 21, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Brayan Moreno",
+    "position": "Centre-Forward",
+    "fromTeam": "CSKA-Sofia",
+    "toTeam": "Neftchi Baku",
+    "date": "Jan 21, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Arthur",
+    "position": "Goalkeeper",
+    "fromTeam": "Guarani",
+    "toTeam": "Beroe",
+    "date": "Jan 20, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Thiago Ceijas",
+    "position": "Defensive Midfield",
+    "fromTeam": "Beroe",
+    "toTeam": "LKS Lodz",
+    "date": "Jan 20, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Arnaud Luzayadio",
+    "position": "Right-Back",
+    "fromTeam": "Without Club",
+    "toTeam": "Pirin",
+    "date": "Jan 19, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Tochukwu Nnadi",
+    "position": "Defensive Midfield",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "Zulte Waregem",
+    "date": "Jan 19, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Werick Caetano",
+    "position": "Attacking Midfield",
+    "fromTeam": "Without Club",
+    "toTeam": "Beroe",
+    "date": "Jan 19, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ehije Ukaki",
+    "position": "Right-Back",
+    "fromTeam": "FDC Vista",
+    "toTeam": "Botev Plovdiv",
+    "date": "Jan 19, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Federico Zanetti",
+    "position": "Right Winger",
+    "fromTeam": "Without Club",
+    "toTeam": "Beroe",
+    "date": "Jan 19, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Dmytro Semeniv",
+    "position": "Right-Back",
+    "fromTeam": "Pirin",
+    "toTeam": "Spartak Varna",
+    "date": "Jan 19, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Carlos Algarra",
+    "position": "Central Midfield",
+    "fromTeam": "Without Club",
+    "toTeam": "Beroe",
+    "date": "Jan 18, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Georgi Nikolov",
+    "position": "Centre-Forward",
+    "fromTeam": "Hebar P.",
+    "toTeam": "Botev Plovdiv",
+    "date": "Jan 18, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Eva Wankewai",
+    "position": "Centre-Forward",
+    "fromTeam": "CSKA 1948",
+    "toTeam": "MZ Hakka",
+    "date": "Jan 18, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Lassana N'Diaye",
+    "position": "Centre-Forward",
+    "fromTeam": "Radnicki Nis",
+    "toTeam": "Botev Vratsa",
+    "date": "Jan 18, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Alessandro Guarnone",
+    "position": "Goalkeeper",
+    "fromTeam": "Etar",
+    "toTeam": "Valletta",
+    "date": "Jan 17, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Mike Cevallos",
+    "position": "Centre-Forward",
+    "fromTeam": "Beroe",
+    "toTeam": "El Palo",
+    "date": "Jan 17, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Martin Kavdanski",
+    "position": "Centre-Back",
+    "fromTeam": "Botev Vratsa",
+    "toTeam": "Marek Dupnitsa",
+    "date": "Jan 17, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Martin Raynov",
+    "position": "Defensive Midfield",
+    "fromTeam": "Without Club",
+    "toTeam": "Loko Plovdiv",
+    "date": "Jan 17, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Weslen Junior",
+    "position": "Centre-Forward",
+    "fromTeam": "Manama Club",
+    "toTeam": "Cherno More",
+    "date": "Jan 16, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Fernando Karanga",
+    "position": "Centre-Forward",
+    "fromTeam": "JN Xingzhou",
+    "toTeam": "CSKA-Sofia",
+    "date": "Jan 16, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Georgi Minchev",
+    "position": "Centre-Forward",
+    "fromTeam": "Loko Plovdiv",
+    "toTeam": "AEL Limassol",
+    "date": "Jan 16, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Alpha Conteh",
+    "position": "Left Winger",
+    "fromTeam": "Loko Plovdiv",
+    "toTeam": "Neftchi Baku",
+    "date": "Jan 16, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Mariyan Ivanov",
+    "position": "Centre-Back",
+    "fromTeam": "Etar",
+    "toTeam": "Lokomotiv GO",
+    "date": "Jan 16, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Velislav Minkov",
+    "position": "Central Midfield",
+    "fromTeam": "Pirin",
+    "toTeam": "Spartak Varna",
+    "date": "Jan 16, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ivan Mihaylov",
+    "position": "Centre-Forward",
+    "fromTeam": "Loko Plovdiv II",
+    "toTeam": "Loko Plovdiv",
+    "date": "Jan 15, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Rayan Senhadji",
+    "position": "Centre-Back",
+    "fromTeam": "Krumovgrad",
+    "toTeam": "Fakel Voronezh",
+    "date": "Jan 15, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Jean-Pierre Da Sylva",
+    "position": "Left Winger",
+    "fromTeam": "Botev Vratsa",
+    "toTeam": "Septemvri Sofia",
+    "date": "Jan 15, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Damyan Yordanov",
+    "position": "Attacking Midfield",
+    "fromTeam": "Lazio U19",
+    "toTeam": "Beroe",
+    "date": "Jan 15, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Mario Topuzov",
+    "position": "Left Winger",
+    "fromTeam": "CSA Steaua",
+    "toTeam": "CSKA 1948",
+    "date": "Jan 15, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Pedro Henrique",
+    "position": "Centre-Back",
+    "fromTeam": "Ludogorets",
+    "toTeam": "Guarani",
+    "date": "Jan 14, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Felipe Ryan",
+    "position": "Attacking Midfield",
+    "fromTeam": "Loko Sofia",
+    "toTeam": "FK Kukësi",
+    "date": "Jan 13, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Fábio Lima",
+    "position": "Left Winger",
+    "fromTeam": "ABC FC",
+    "toTeam": "Levski Sofia",
+    "date": "Jan 13, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Rwan Seco",
+    "position": "Centre-Forward",
+    "fromTeam": "Santos",
+    "toTeam": "Ludogorets",
+    "date": "Jan 13, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Nonato",
+    "position": "Central Midfield",
+    "fromTeam": "Ludogorets",
+    "toTeam": "Santos",
+    "date": "Jan 13, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Simeon Aleksandrov",
+    "position": "Left Winger",
+    "fromTeam": "CSKA-Sofia",
+    "toTeam": "Septemvri Sofia",
+    "date": "Jan 12, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Messie Biatoumoussoka",
+    "position": "Centre-Back",
+    "fromTeam": "FAR Rabat",
+    "toTeam": "Botev Vratsa",
+    "date": "Jan 12, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ilker Budinov",
+    "position": "Right-Back",
+    "fromTeam": "Ludogorets II",
+    "toTeam": "Botev Vratsa",
+    "date": "Jan 12, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Martin Toshev",
+    "position": "Centre-Forward",
+    "fromTeam": "Etar",
+    "toTeam": "Septemvri Sofia",
+    "date": "Jan 12, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Jean-Marc Tiboué",
+    "position": "Left-Back",
+    "fromTeam": "Without Club",
+    "toTeam": "Etar",
+    "date": "Jan 12, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Nonato",
+    "position": "Central Midfield",
+    "fromTeam": "Santos",
+    "toTeam": "Ludogorets",
+    "date": "Jan 12, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Rwan Seco",
+    "position": "Centre-Forward",
+    "fromTeam": "Ludogorets",
+    "toTeam": "Santos",
+    "date": "Jan 12, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Zdravko Dimitrov",
+    "position": "Left Winger",
+    "fromTeam": "Levski Sofia",
+    "toTeam": "Sakaryaspor",
+    "date": "Jan 11, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Héliton",
+    "position": "Centre-Back",
+    "fromTeam": "CSKA 1948",
+    "toTeam": "Göztepe",
+    "date": "Jan 11, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ronaldo",
+    "position": "Right Winger",
+    "fromTeam": "Levski Sofia",
+    "toTeam": "Rostov",
+    "date": "Jan 10, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Radoslav Tsonev",
+    "position": "Central Midfield",
+    "fromTeam": "Arda Kardzhali",
+    "toTeam": "Tobol Kostanay",
+    "date": "Jan 10, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Zdravko Dimitrov",
+    "position": "Left Winger",
+    "fromTeam": "Septemvri Sofia",
+    "toTeam": "Levski Sofia",
+    "date": "Jan 10, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Enzo Hoyos",
+    "position": "Attacking Midfield",
+    "fromTeam": "Beroe",
+    "toTeam": "Chacarita Jrs.",
+    "date": "Jan 10, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Arlind Dakaj",
+    "position": "Defensive Midfield",
+    "fromTeam": "Cherno More",
+    "toTeam": "KF Erzeni",
+    "date": "Jan 9, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Gonzalo Issa",
+    "position": "Centre-Forward",
+    "fromTeam": "Beroe",
+    "toTeam": "FC College 1975",
+    "date": "Jan 9, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Asen Donchev",
+    "position": "Right-Back",
+    "fromTeam": "CSKA-Sofia",
+    "toTeam": "Pirin",
+    "date": "Jan 8, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Felipe Soares",
+    "position": "Centre-Back",
+    "fromTeam": "Botev Vratsa",
+    "toTeam": "Bangu-RJ",
+    "date": "Jan 8, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Petar Kepov",
+    "position": "Right-Back",
+    "fromTeam": "Botev Vratsa",
+    "toTeam": "Belasitsa",
+    "date": "Jan 8, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Zhirayr Shaghoyan",
+    "position": "Left Winger",
+    "fromTeam": "CSKA-Sofia",
+    "toTeam": "Ararat-Armenia",
+    "date": "Jan 8, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Vasil Vasilev",
+    "position": "Centre-Forward",
+    "fromTeam": "Beroe",
+    "toTeam": "Yantra",
+    "date": "Jan 7, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Aleksandar Vasilev",
+    "position": "Left-Back",
+    "fromTeam": "Cherno More",
+    "toTeam": "Retired",
+    "date": "Jan 5, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Giovanny",
+    "position": "Left Winger",
+    "fromTeam": "Loko Plovdiv",
+    "toTeam": "GX PG Haliao",
+    "date": "Jan 4, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Georgi Rusev",
+    "position": "Right Winger",
+    "fromTeam": "CSKA 1948",
+    "toTeam": "FC Sion",
+    "date": "Jan 2, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Boycho Velichkov",
+    "position": "Centre-Forward",
+    "fromTeam": "Loko Sofia U19",
+    "toTeam": "Loko Sofia",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ivan Dishkov",
+    "position": "Centre-Back",
+    "fromTeam": "Hebar II",
+    "toTeam": "Hebar P.",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Marto Boychev",
+    "position": "Attacking Midfield",
+    "fromTeam": "CSKA 1948 U17",
+    "toTeam": "CSKA 1948",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Jasper van Heertum",
+    "position": "Centre-Back",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "Botev II",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Stanislav Rabotov",
+    "position": "Centre-Back",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "Botev II",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Zan Karnicnik",
+    "position": "Right-Back",
+    "fromTeam": "Ludogorets",
+    "toTeam": "NK Celje",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Simeon Petrov",
+    "position": "Centre-Back",
+    "fromTeam": "CSKA 1948",
+    "toTeam": "Slask Wroclaw",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ivan Dichevski",
+    "position": "Goalkeeper",
+    "fromTeam": "Arda Kardzhali",
+    "toTeam": "Without Club",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Momchil Tsvetanov",
+    "position": "Left-Back",
+    "fromTeam": "Botev Vratsa",
+    "toTeam": "Krumovgrad",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Valeri Hristov",
+    "position": "Right-Back",
+    "fromTeam": "Etar",
+    "toTeam": "Fratria",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Yanko Angelov",
+    "position": "Defensive Midfield",
+    "fromTeam": "Etar",
+    "toTeam": "Maritsa",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Dimo Bakalov",
+    "position": "Right Winger",
+    "fromTeam": "Etar",
+    "toTeam": "Maritsa",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Roy Herman",
+    "position": "Right-Back",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "Without Club",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Daniel Miljanovic",
+    "position": "Right Midfield",
+    "fromTeam": "Krumovgrad",
+    "toTeam": "Without Club",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Alan Dias",
+    "position": "Centre-Back",
+    "fromTeam": "Loko Sofia",
+    "toTeam": "Without Club",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Léo Sena",
+    "position": "Defensive Midfield",
+    "fromTeam": "Loko Plovdiv",
+    "toTeam": "Água Santa-SP",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Juan Pablo Lungarzo",
+    "position": "Goalkeeper",
+    "fromTeam": "Beroe",
+    "toTeam": "Comunicaciones",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Aeron Zinga",
+    "position": "Centre-Forward",
+    "fromTeam": "CSKA 1948",
+    "toTeam": "Without Club",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ludovic Soares",
+    "position": "Left-Back",
+    "fromTeam": "Slavia Sofia",
+    "toTeam": "Without Club",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Faustas Steponavicius",
+    "position": "Centre-Forward",
+    "fromTeam": "RFS",
+    "toTeam": "Botev Plovdiv",
+    "date": "Jan 1, 2024",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Cristhian Mendoza",
+    "position": "Central Midfield",
+    "fromTeam": "Dob. Dobrich",
+    "toTeam": "Loko Plovdiv",
+    "date": "Dec 31, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Bismark Charles",
+    "position": "Centre-Forward",
+    "fromTeam": "Pirin",
+    "toTeam": "CSKA-Sofia",
+    "date": "Dec 31, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Aleksandar Buchkov",
+    "position": "Right-Back",
+    "fromTeam": "Pirin",
+    "toTeam": "CSKA-Sofia",
+    "date": "Dec 31, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Simeon Aleksandrov",
+    "position": "Left Winger",
+    "fromTeam": "Pirin",
+    "toTeam": "CSKA-Sofia",
+    "date": "Dec 31, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Faustas Steponavicius",
+    "position": "Centre-Forward",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "RFS",
+    "date": "Dec 31, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Biser Bonev",
+    "position": "Central Midfield",
+    "fromTeam": "Krumovgrad",
+    "toTeam": "Botev II",
+    "date": "Dec 31, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Vladislav Naydenov",
+    "position": "Left Winger",
+    "fromTeam": "Etar",
+    "toTeam": "Ludogorets II",
+    "date": "Dec 31, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ilker Budinov",
+    "position": "Right-Back",
+    "fromTeam": "Etar",
+    "toTeam": "Ludogorets II",
+    "date": "Dec 31, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Petar Ivanov",
+    "position": "Right-Back",
+    "fromTeam": "Yantra",
+    "toTeam": "Cherno More",
+    "date": "Dec 31, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Zan Karnicnik",
+    "position": "Right-Back",
+    "fromTeam": "NK Celje",
+    "toTeam": "Ludogorets",
+    "date": "Dec 31, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Javier Betegón",
+    "position": "Left Winger",
+    "fromTeam": "Etar",
+    "toTeam": "Independiente",
+    "date": "Dec 31, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Bozhidar Penchev",
+    "position": "Central Midfield",
+    "fromTeam": "Beroe",
+    "toTeam": "Hebar P.",
+    "date": "Nov 22, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Sebastián Villa",
+    "position": "Left Winger",
+    "fromTeam": "Without Club",
+    "toTeam": "Beroe",
+    "date": "Nov 15, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Francesco Celeste",
+    "position": "Right Midfield",
+    "fromTeam": "Beroe",
+    "toTeam": "Without Club",
+    "date": "Nov 10, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Modou Diagne",
+    "position": "Centre-Back",
+    "fromTeam": "Without Club",
+    "toTeam": "Pirin",
+    "date": "Nov 4, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Alessandro Guarnone",
+    "position": "Goalkeeper",
+    "fromTeam": "Without Club",
+    "toTeam": "Etar",
+    "date": "Nov 2, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Oussama Alou",
+    "position": "Attacking Midfield",
+    "fromTeam": "York United",
+    "toTeam": "Etar",
+    "date": "Oct 23, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Quentin Seedorf",
+    "position": "Left-Back",
+    "fromTeam": "Without Club",
+    "toTeam": "Slavia Sofia",
+    "date": "Oct 17, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Réda Rabeï",
+    "position": "Central Midfield",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "Without Club",
+    "date": "Oct 17, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Antoni Ivanov",
+    "position": "Central Midfield",
+    "fromTeam": "Without Club",
+    "toTeam": "Loko Sofia",
+    "date": "Oct 2, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Gonçalo Cardoso",
+    "position": "Centre-Back",
+    "fromTeam": "Without Club",
+    "toTeam": "Loko Sofia",
+    "date": "Sep 29, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Serigne Mbacké Faye",
+    "position": "Centre-Back",
+    "fromTeam": "Kolding IF",
+    "toTeam": "Etar",
+    "date": "Sep 27, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Gezim Pepsi",
+    "position": "Defensive Midfield",
+    "fromTeam": "Pirin",
+    "toTeam": "Without Club",
+    "date": "Sep 22, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Júnior Palmares",
+    "position": "Attacking Midfield",
+    "fromTeam": "Arda Kardzhali",
+    "toTeam": "Vitória-PE",
+    "date": "Sep 20, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Jon Bakero",
+    "position": "Attacking Midfield",
+    "fromTeam": "Slavia Sofia",
+    "toTeam": "Without Club",
+    "date": "Sep 19, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Kaloyan Todorov",
+    "position": "Attacking Midfield",
+    "fromTeam": "Pirin",
+    "toTeam": "Pirin Razlog",
+    "date": "Sep 18, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Oliver Kamdem",
+    "position": "Right-Back",
+    "fromTeam": "Without Club",
+    "toTeam": "Loko Plovdiv",
+    "date": "Sep 14, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Cristhian Mendoza",
+    "position": "Central Midfield",
+    "fromTeam": "Loko Plovdiv",
+    "toTeam": "Dob. Dobrich",
+    "date": "Sep 12, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Carlos Segundo Pachame",
+    "position": "Defensive Midfield",
+    "fromTeam": "Estudiantes LP",
+    "toTeam": "Beroe",
+    "date": "Sep 10, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Emanuel Sakic",
+    "position": "Central Midfield",
+    "fromTeam": "AE Kifisias",
+    "toTeam": "CSKA-Sofia",
+    "date": "Sep 9, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Aeron Zinga",
+    "position": "Centre-Forward",
+    "fromTeam": "Valenciennes FC",
+    "toTeam": "CSKA 1948",
+    "date": "Sep 9, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ivaylo Ivanov",
+    "position": "Central Midfield",
+    "fromTeam": "CSKA 1948 II",
+    "toTeam": "Loko Plovdiv",
+    "date": "Sep 9, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Pa Konate",
+    "position": "Left-Back",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "Nea Salamis",
+    "date": "Sep 8, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Andrey Yordanov",
+    "position": "Left-Back",
+    "fromTeam": "Krumovgrad",
+    "toTeam": "Pirin",
+    "date": "Sep 8, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Martin Sorakov",
+    "position": "Centre-Forward",
+    "fromTeam": "Krumovgrad",
+    "toTeam": "Slavia Sofia",
+    "date": "Sep 7, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Ante Zivkovic",
+    "position": "Centre-Forward",
+    "fromTeam": "Hebar P.",
+    "toTeam": "Chindia",
+    "date": "Sep 7, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Junior Djile",
+    "position": "Left Winger",
+    "fromTeam": "Ermis Aradippou",
+    "toTeam": "Botev Vratsa",
+    "date": "Sep 6, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Breno",
+    "position": "Centre-Forward",
+    "fromTeam": "Cruzeiro",
+    "toTeam": "Cherno More",
+    "date": "Sep 6, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Tsvetoslav Popovchev",
+    "position": "Centre-Back",
+    "fromTeam": "Botev Vratsa",
+    "toTeam": "Città Varese",
+    "date": "Sep 6, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Mounir Chouiar",
+    "position": "Left Winger",
+    "fromTeam": "Basaksehir",
+    "toTeam": "Ludogorets",
+    "date": "Sep 5, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Mario-Jason Kikonda",
+    "position": "Central Midfield",
+    "fromTeam": "Paris 13 Atl.",
+    "toTeam": "Botev Vratsa",
+    "date": "Sep 5, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Antoine Conte",
+    "position": "Centre-Back",
+    "fromTeam": "Hapoel Tel Aviv",
+    "toTeam": "Botev Plovdiv",
+    "date": "Sep 5, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "El Mami Tetah",
+    "position": "Left Winger",
+    "fromTeam": "Alanyaspor",
+    "toTeam": "Arda Kardzhali",
+    "date": "Sep 4, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Kiril Despodov",
+    "position": "Right Winger",
+    "fromTeam": "Ludogorets",
+    "toTeam": "PAOK Salonika",
+    "date": "Sep 4, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Damyan Hristov",
+    "position": "Goalkeeper",
+    "fromTeam": "Etar",
+    "toTeam": "Ludogorets II",
+    "date": "Sep 3, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Romario Moise",
+    "position": "Attacking Midfield",
+    "fromTeam": "Beroe",
+    "toTeam": "Concordia",
+    "date": "Sep 2, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Blagovest Danchev",
+    "position": "Attacking Midfield",
+    "fromTeam": "Krumovgrad",
+    "toTeam": "Belasitsa",
+    "date": "Sep 2, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Georgi Atanasov",
+    "position": "Right Winger",
+    "fromTeam": "Arda Kardzhali",
+    "toTeam": "Lev. Sofia II",
+    "date": "Sep 1, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Pipa",
+    "position": "Right-Back",
+    "fromTeam": "Ludogorets",
+    "toTeam": "West Brom",
+    "date": "Sep 1, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Damyan Yordanov",
+    "position": "Attacking Midfield",
+    "fromTeam": "Beroe",
+    "toTeam": "Lazio U19",
+    "date": "Sep 1, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Matheus Machado",
+    "position": "Centre-Forward",
+    "fromTeam": "Cherno More",
+    "toTeam": "Zulte Waregem",
+    "date": "Sep 1, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Roberto Puncec",
+    "position": "Centre-Back",
+    "fromTeam": "Botev Plovdiv",
+    "toTeam": "Without Club",
+    "date": "Sep 1, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Josecarlos van Rankin",
+    "position": "Right-Back",
+    "fromTeam": "Chivas",
+    "toTeam": "Etar",
+    "date": "Aug 29, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Giovanni Troupée",
+    "position": "Right-Back",
+    "fromTeam": "Loko Plovdiv",
+    "toTeam": "Without Club",
+    "date": "Aug 29, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Lovre Knezevic",
+    "position": "Left Winger",
+    "fromTeam": "NK Istra",
+    "toTeam": "Etar",
+    "date": "Aug 29, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Gonzalo Issa",
+    "position": "Centre-Forward",
+    "fromTeam": "Lorca Deportiva",
+    "toTeam": "Beroe",
+    "date": "Aug 29, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Oleksiy Zbun",
+    "position": "Right Winger",
+    "fromTeam": "Suduva",
+    "toTeam": "Hebar P.",
+    "date": "Aug 25, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Denislav Angelov",
+    "position": "Centre-Forward",
+    "fromTeam": "Etar",
+    "toTeam": "Eendracht Aalst",
+    "date": "Aug 24, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Dorin Rotariu",
+    "position": "Right Winger",
+    "fromTeam": "Ludogorets",
+    "toTeam": "Without Club",
+    "date": "Aug 24, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Matheus Silva",
+    "position": "Right-Back",
+    "fromTeam": "Loko Plovdiv",
+    "toTeam": "Qarabag FK",
+    "date": "Aug 21, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Felipe Ryan",
+    "position": "Attacking Midfield",
+    "fromTeam": "Varzim",
+    "toTeam": "Loko Sofia",
+    "date": "Aug 21, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Boubacar Traorè",
+    "position": "Left Winger",
+    "fromTeam": "Beroe",
+    "toTeam": "Botev Vratsa",
+    "date": "Aug 21, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Aymen Souda",
+    "position": "Attacking Midfield",
+    "fromTeam": "Pays de Grasse",
+    "toTeam": "Pirin",
+    "date": "Aug 17, 2023",
+    "leagueID": "BU1"
+  },
+  {
+    "name": "Zvonimir Mikulic",
+    "position": "Goalkeeper",
+    "fromTeam": "Hebar P.",
+    "toTeam": "Eendracht Aalst",
+    "date": "Aug 16, 2023",
+    "leagueID": "BU1"
+  }
+]
