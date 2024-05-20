@@ -1,62 +1,16 @@
-import React, { useState } from "react";
-import axios from "axios";
+// src/App.js
+import React from "react";
+import { Routes, Route } from "react-router-dom";
+
+import Home from "./components/Home.jsx";
+import AddLeague from "./components/AddLeague.jsx";
 
 function App() {
-  const [url, setUrl] = useState("");
-  const [leagueName, setLeagueName] = useState("");
-  const [responseData, setResponseData] = useState("");
-  const [error, setError] = useState("");
-
-  const handleSubmit = async (e) => {
-    e.preventDefault();
-
-    // Regex pattern to match the desired URL format
-    const regexPattern = /wettbewerb\/(.*?)(?=\/plus)/;
-    
-    // Extract ID from the URL if it matches the pattern
-    const match = url.match(regexPattern);
-    if (!match) {
-      setError("Invalid URL format");
-      return;
-    }
-    const id = match[1];
-
-    try {
-      const response = await axios.post("http://localhost:3000/api/url", {
-        url,
-        id, // Send the extracted ID
-        leagueName,
-      });
-      setResponseData(response.data);
-      setError(""); // Clear any previous errors
-    } catch (error) {
-      console.error("Error submitting URL:", error);
-    }
-  };
-
   return (
-    <div>
-      <h1>Add league</h1>
-      <form onSubmit={handleSubmit}>
-        <input
-          type="text"
-          value={leagueName}
-          onChange={(e) => setLeagueName(e.target.value)}
-          placeholder="League Name"
-        />
-        <input
-          type="text"
-          value={url}
-          onChange={(e) => setUrl(e.target.value)}
-          placeholder="Enter URL"
-        />
-        <button type="submit">Submit</button>
-      </form>
-      {error && <div style={{ color: 'red' }}>{error}</div>}
-      <div>
-        {responseData && <div>Response from backend: {responseData}</div>}
-      </div>
-    </div>
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/add-league" element={<AddLeague />} />
+    </Routes>
   );
 }
 
