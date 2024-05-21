@@ -1,6 +1,7 @@
 const express = require("express");
-const Url = require('../models/Url');
+const Url = require("../models/Url");
 const router = express.Router();
+const Transfer = require("../models/Transfer");
 
 // Route to handle incoming URL
 router.post("/api/url", async (req, res) => {
@@ -40,8 +41,39 @@ router.get("/api/leagues", async (req, res) => {
   }
 });
 
+// Endpoint to get transfers by league ID
+router.get("/api/transfers/:leagueID", async (req, res) => {
+  const { leagueID } = req.params;
+  try {
+    const transfers = await Transfer.find({ leagueID });
+    res.status(200).json(transfers);
+  } catch (error) {
+    console.error("Error fetching transfers:", error);
+    res.status(500).send("Error fetching transfers.");
+  }
+});
 
+// Endpoint to update the checked status of a transfer by its ID
+router.put("/api/transfers/:transferID", async (req, res) => {
+  const { transferID } = req.params;
+  const { checked } = req.body;
 
+  try {
+    const updatedTransfer = await Transfer.findByIdAndUpdate(
+      transferID,
+      { checked },
+      { new: true }
+    );
 
+    if (updatedTransfer) {
+      res.status(200).json(updatedTransfer);
+    } else {
+      res.status(404).send("Transfer not found.");
+    }
+  } catch (error) {
+    console.error("Error updating transfer:", error);
+    res.status(500).send("Error updating transfer.");
+  }
+});
 
 module.exports = router;

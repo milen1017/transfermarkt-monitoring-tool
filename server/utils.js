@@ -1,7 +1,9 @@
 const puppeteer = require("puppeteer-extra");
 const StealthPlugin = require("puppeteer-extra-plugin-stealth");
 const cheerio = require("cheerio");
-const Transfer = require('./models/Transfer'); // Import Transfer model
+const Transfer = require("./models/Transfer"); // Import Transfer model
+
+const Url = require("./models/Url");
 
 // Add stealth plugin
 puppeteer.use(StealthPlugin());
@@ -22,10 +24,12 @@ const scrapeTransfers = async (url, leagueID) => {
 
   rows.each((index, row) => {
     const rowData = [];
-    $(row).find("td").each((index, cell) => {
-      const cellText = $(cell).text().trim();
-      rowData.push(cellText);
-    });
+    $(row)
+      .find("td")
+      .each((index, cell) => {
+        const cellText = $(cell).text().trim();
+        rowData.push(cellText);
+      });
 
     if (rowData.length > 15) {
       const transfer = {
@@ -54,11 +58,30 @@ const saveTransfersToDB = async (transfers, leagueID) => {
     }
     console.log(`Transfers for league ${leagueID} saved to MongoDB`);
   } catch (error) {
-    console.error('Error saving transfers to MongoDB:', error);
+    console.error("Error saving transfers to MongoDB:", error);
+  }
+};
+
+const scrapeAndSaveAllLeagues = async () => {
+  try {
+    const leagues = await Url.find();
+    for (const league of leagues) {
+      const { url, id: leagueID } = league;
+      console.log(`Scraping transfers for league ${leagueID}...`);
+      const transfers = await scrapeTransfers(url, leagueID);
+      await saveTransfersToDB(transfers, leagueID);
+    }
+    console.log("Scraping and saving transfers for all leagues completed.");
+  } catch (error) {
+    console.error(
+      "Error during scraping and saving transfers for all leagues:",
+      error
+    );
   }
 };
 
 module.exports = {
   scrapeTransfers,
   saveTransfersToDB,
+  scrapeAndSaveAllLeagues,
 };
