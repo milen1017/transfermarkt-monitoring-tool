@@ -2,6 +2,20 @@ const express = require("express");
 const Url = require("../models/Url");
 const router = express.Router();
 const Transfer = require("../models/Transfer");
+const { scrapeAndSaveAllLeagues } = require("../utils");
+
+// Endpoint to trigger scraping and saving transfers for all leagues
+router.post("/api/scrape-transfers", async (req, res) => {
+  try {
+    await scrapeAndSaveAllLeagues();
+    res
+      .status(200)
+      .send("Scraping and saving transfers completed successfully.");
+  } catch (error) {
+    console.error("Error during scraping and saving transfers:", error);
+    res.status(500).send("Error during scraping and saving transfers.");
+  }
+});
 
 // Route to handle incoming URL
 router.post("/api/url", async (req, res) => {

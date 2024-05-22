@@ -9,42 +9,55 @@ const Url = require("./models/Url");
 puppeteer.use(StealthPlugin());
 
 // Define your scraper function with the URL parameter
+
 const scrapeTransfers = async (url, leagueID) => {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  await page.goto(url);
-  await page.waitForSelector(".items");
+  let browser;
+  try {
+    browser = await puppeteer.launch();
+    const page = await browser.newPage();
 
-  const tableHtml = await page.$eval(".items", (table) => table.outerHTML);
-  await browser.close();
+    // Set a timeout of 30 seconds (30000 milliseconds)
+    await page.goto(url, { timeout: 30000 });
+    await page.waitForSelector(".items", { timeout: 30000 });
 
-  const $ = cheerio.load(tableHtml);
-  const rows = $("tbody").find("tr");
-  const transfers = [];
+    const tableHtml = await page.$eval(".items", (table) => table.outerHTML);
+    await browser.close();
 
-  rows.each((index, row) => {
-    const rowData = [];
-    $(row)
-      .find("td")
-      .each((index, cell) => {
-        const cellText = $(cell).text().trim();
-        rowData.push(cellText);
-      });
+    const $ = cheerio.load(tableHtml);
+    const rows = $("tbody").find("tr");
+    const transfers = [];
 
-    if (rowData.length > 15) {
-      const transfer = {
-        name: rowData[2],
-        position: rowData[3],
-        fromTeam: rowData[8],
-        toTeam: rowData[12],
-        date: new Date(rowData[14]),
-        leagueID: leagueID,
-      };
-      transfers.push(transfer);
+    rows.each((index, row) => {
+      const rowData = [];
+      $(row)
+        .find("td")
+        .each((index, cell) => {
+          const cellText = $(cell).text().trim();
+          rowData.push(cellText);
+        });
+
+      if (rowData.length > 15) {
+        const transfer = {
+          name: rowData[2],
+          position: rowData[3],
+          fromTeam: rowData[8],
+          toTeam: rowData[12],
+          date: new Date(rowData[14]),
+          leagueID: leagueID,
+        };
+        transfers.push(transfer);
+      }
+    });
+
+    return transfers;
+  } catch (error) {
+    console.error(`Error scraping transfers for league ${leagueID}:`, error);
+    return [];
+  } finally {
+    if (browser) {
+      await browser.close();
     }
-  });
-  // console.log(`scraped ${leagueID} transfers ${transfers}`);
-  return transfers;
+  }
 };
 
 const saveTransfersToDB = async (transfers, leagueID) => {
