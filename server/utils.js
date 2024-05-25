@@ -64,7 +64,14 @@ const saveTransfersToDB = async (transfers, leagueID) => {
   try {
     for (const transfer of transfers) {
       await Transfer.findOneAndUpdate(
-        { name: transfer.name, date: transfer.date },
+        {
+          name: transfer.name,
+          position: transfer.position,
+          fromTeam: transfer.fromTeam,
+          toTeam: transfer.toTeam,
+          date: transfer.date,
+          leagueID: transfer.leagueID,
+        },
         transfer,
         { new: true, upsert: true }
       );
