@@ -123,6 +123,7 @@ function Home() {
                       <ul>
                         {transfers[league.id]
                           .filter((transfer) => !transfer.checked)
+                          .sort((a, b) => new Date(b.date) - new Date(a.date)) // Sort by date, newer to older
                           .map((transfer) => (
                             <li key={transfer._id}>
                               <strong>{transfer.name}</strong> -{" "}
@@ -157,6 +158,7 @@ function Home() {
                       <ul>
                         {transfers[league.id]
                           .filter((transfer) => transfer.checked)
+                          .sort((a, b) => new Date(b.date) - new Date(a.date)) // Sort by date, newer to older
                           .map((transfer) => (
                             <li key={transfer._id}>
                               <strong>{transfer.name}</strong> -{" "}
