@@ -23,13 +23,13 @@ const transferSchema = new mongoose.Schema({
   },
   checked: {
     type: Boolean,
-    default: false,
+    default: true,
   },
   leagueID: {
     type: String,
     required: true,
   },
-});
+}, { timestamps: true }); // Enable timestamps
 
 const Transfer = mongoose.model("Transfer", transferSchema);
 

@@ -91,9 +91,9 @@ function Home() {
 
   return (
     <div>
-      <h1>Home Page</h1>
-      <p>Welcome to the Home Page.</p>
-      <button onClick={handleScrapeAndSave} disabled={loading}>
+      <h1>Transfermarkt monitoring tool</h1>
+     
+      <button onClick={handleScrapeAndSave} disabled={loading} className="button-spacing">
         {loading ? "Processing..." : "Scrape and Save Transfers"}
       </button>
       <h2>Leagues</h2>
@@ -105,12 +105,18 @@ function Home() {
                 {league.leagueName}
               </a>{" "}
               id: {league.id}
-              <button onClick={() => toggleShowUncheckedTransfers(league.id)}>
+              <button
+                onClick={() => toggleShowUncheckedTransfers(league.id)}
+                className="button-spacing"
+              >
                 {showUncheckedTransfers[league.id]
                   ? "Hide Unchecked Transfers"
                   : "Show Unchecked Transfers"}
               </button>
-              <button onClick={() => toggleShowCheckedTransfers(league.id)}>
+              <button
+                onClick={() => toggleShowCheckedTransfers(league.id)}
+                className="button-spacing"
+              >
                 {showCheckedTransfers[league.id]
                   ? "Hide Checked Transfers"
                   : "Show Checked Transfers"}
@@ -120,71 +126,95 @@ function Home() {
                   {showUncheckedTransfers[league.id] && (
                     <div>
                       <h3>Unchecked Transfers</h3>
-                      <ul>
-                        {transfers[league.id]
-                          .filter((transfer) => !transfer.checked)
-                          .sort((a, b) => new Date(b.date) - new Date(a.date)) // Sort by date, newer to older
-                          .map((transfer) => (
-                            <li key={transfer._id}>
-                              <strong>{transfer.name}</strong> -{" "}
-                              {transfer.position}
-                              <br />
-                              From: {transfer.fromTeam} To: {transfer.toTeam}
-                              <br />
-                              Date:{" "}
-                              {new Date(transfer.date).toLocaleDateString()}
-                              <br />
-                              <label>
-                                <input
-                                  type="checkbox"
-                                  checked={transfer.checked}
-                                  onChange={(e) =>
-                                    handleCheckTransfer(
-                                      transfer._id,
-                                      e.target.checked
-                                    )
-                                  }
-                                />
-                                Checked
-                              </label>
-                            </li>
-                          ))}
-                      </ul>
+                      <table>
+                        <thead>
+                          <tr>
+                            <th>Name</th>
+                            <th>Position</th>
+                            <th>From Team</th>
+                            <th>To Team</th>
+                            <th>Date</th>
+                            <th>Actions</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {transfers[league.id]
+                            .filter((transfer) => !transfer.checked)
+                            .sort((a, b) => new Date(b.date) - new Date(a.date)) // Sort by date, newer to older
+                            .map((transfer) => (
+                              <tr key={transfer._id}>
+                                <td><strong>{transfer.name}</strong></td>
+                                <td>{transfer.position}</td>
+                                <td>{transfer.fromTeam}</td>
+                                <td>{transfer.toTeam}</td>
+                                <td>{new Date(transfer.date).toLocaleDateString()}</td>
+                                <td>
+                                  <label>
+                                    <input
+                                      type="checkbox"
+                                      checked={transfer.checked}
+                                      onChange={(e) =>
+                                        handleCheckTransfer(
+                                          transfer._id,
+                                          e.target.checked
+                                        )
+                                      }
+                                    />
+                                    Checked
+                                  </label>
+                                </td>
+                              </tr>
+                            ))}
+                        </tbody>
+                      </table>
                     </div>
                   )}
                   {showCheckedTransfers[league.id] && (
                     <div>
                       <h3>Checked Transfers</h3>
-                      <ul>
-                        {transfers[league.id]
-                          .filter((transfer) => transfer.checked)
-                          .sort((a, b) => new Date(b.date) - new Date(a.date)) // Sort by date, newer to older
-                          .map((transfer) => (
-                            <li key={transfer._id}>
-                              <strong>{transfer.name}</strong> -{" "}
-                              {transfer.position}
-                              <br />
-                              From: {transfer.fromTeam} To: {transfer.toTeam}
-                              <br />
-                              Date:{" "}
-                              {new Date(transfer.date).toLocaleDateString()}
-                              <br />
-                              <label>
-                                <input
-                                  type="checkbox"
-                                  checked={transfer.checked}
-                                  onChange={(e) =>
-                                    handleCheckTransfer(
-                                      transfer._id,
-                                      e.target.checked
-                                    )
-                                  }
-                                />
-                                Checked
-                              </label>
-                            </li>
-                          ))}
-                      </ul>
+                      <table>
+                        <thead>
+                          <tr>
+                            <th>Name</th>
+                            <th>Position</th>
+                            <th>From Team</th>
+                            <th>To Team</th>
+                            <th>Date</th>
+                            <th>Last Checked At</th>
+                            <th>Actions</th>
+                          </tr>
+                        </thead>
+                        <tbody>
+                          {transfers[league.id]
+                            .filter((transfer) => transfer.checked)
+                            .sort((a, b) => new Date(b.date) - new Date(a.date)) // Sort by date, newer to older
+                            .map((transfer) => (
+                              <tr key={transfer._id}>
+                                <td><strong>{transfer.name}</strong></td>
+                                <td>{transfer.position}</td>
+                                <td>{transfer.fromTeam}</td>
+                                <td>{transfer.toTeam}</td>
+                                <td>{new Date(transfer.date).toLocaleDateString()}</td>
+                                <td>{new Date(transfer.updatedAt).toLocaleString()}</td>
+                                <td>
+                                  <label>
+                                    <input
+                                      type="checkbox"
+                                      checked={transfer.checked}
+                                      onChange={(e) =>
+                                        handleCheckTransfer(
+                                          transfer._id,
+                                          e.target.checked
+                                        )
+                                      }
+                                    />
+                                    Checked
+                                  </label>
+                                </td>
+                              </tr>
+                            ))}
+                        </tbody>
+                      </table>
                     </div>
                   )}
                 </div>
