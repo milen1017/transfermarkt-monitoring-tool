@@ -15,26 +15,19 @@ const scrapeTransfers = async (url, leagueID) => {
   try {
     browser = await puppeteer.launch();
     const page = await browser.newPage();
-
-    // Set a timeout of 30 seconds (30000 milliseconds)
-    await page.goto(url, { timeout: 30000 });
+    await page.goto(url, { timeout: 30000, waitUntil: "domcontentloaded" });
     await page.waitForSelector(".items", { timeout: 30000 });
 
     const tableHtml = await page.$eval(".items", (table) => table.outerHTML);
-    await browser.close();
-
     const $ = cheerio.load(tableHtml);
     const rows = $("tbody").find("tr");
     const transfers = [];
 
     rows.each((index, row) => {
-      const rowData = [];
-      $(row)
+      const rowData = $(row)
         .find("td")
-        .each((index, cell) => {
-          const cellText = $(cell).text().trim();
-          rowData.push(cellText);
-        });
+        .map((i, cell) => $(cell).text().trim())
+        .get();
 
       if (rowData.length > 15) {
         const transfer = {
@@ -51,7 +44,10 @@ const scrapeTransfers = async (url, leagueID) => {
 
     return transfers;
   } catch (error) {
-    console.error(`Error scraping transfers for league ${leagueID}:`, error);
+    console.error(
+      `Error scraping transfers for league ${leagueID} from ${url}:`,
+      error
+    );
     return [];
   } finally {
     if (browser) {
