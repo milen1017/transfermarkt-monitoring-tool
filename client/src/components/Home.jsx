@@ -104,14 +104,14 @@ function Home() {
               <a href={league.url} target="_blank" rel="noopener noreferrer">
                 {league.leagueName}
               </a>{" "}
-              id: {league.id}
+            
               <button
                 onClick={() => toggleShowUncheckedTransfers(league.id)}
                 className="button-spacing"
               >
                 {showUncheckedTransfers[league.id]
-                  ? "Hide Unchecked Transfers"
-                  : "Show Unchecked Transfers"}
+                  ? "Hide New Transfers"
+                  : "Show New Transfers"}
               </button>
               <button
                 onClick={() => toggleShowCheckedTransfers(league.id)}
@@ -125,15 +125,15 @@ function Home() {
                 <div>
                   {showUncheckedTransfers[league.id] && (
                     <div>
-                      <h3>Unchecked Transfers</h3>
+                      <h3>New Transfers</h3>
                       <table>
                         <thead>
                           <tr>
                             <th>Name</th>
                             <th>Position</th>
+                            <th>Date</th>
                             <th>From Team</th>
                             <th>To Team</th>
-                            <th>Date</th>
                             <th>Actions</th>
                           </tr>
                         </thead>
@@ -145,9 +145,9 @@ function Home() {
                               <tr key={transfer._id}>
                                 <td><strong>{transfer.name}</strong></td>
                                 <td>{transfer.position}</td>
+                                <td>{new Date(transfer.date).toLocaleDateString()}</td>
                                 <td>{transfer.fromTeam}</td>
                                 <td>{transfer.toTeam}</td>
-                                <td>{new Date(transfer.date).toLocaleDateString()}</td>
                                 <td>
                                   <label>
                                     <input
@@ -160,7 +160,7 @@ function Home() {
                                         )
                                       }
                                     />
-                                    Checked
+                                    Check
                                   </label>
                                 </td>
                               </tr>
@@ -177,10 +177,9 @@ function Home() {
                           <tr>
                             <th>Name</th>
                             <th>Position</th>
+                            <th>Date</th>
                             <th>From Team</th>
                             <th>To Team</th>
-                            <th>Date</th>
-                            <th>Last Checked At</th>
                             <th>Actions</th>
                           </tr>
                         </thead>
@@ -192,10 +191,9 @@ function Home() {
                               <tr key={transfer._id}>
                                 <td><strong>{transfer.name}</strong></td>
                                 <td>{transfer.position}</td>
+                                <td>{new Date(transfer.date).toLocaleDateString()}</td>
                                 <td>{transfer.fromTeam}</td>
                                 <td>{transfer.toTeam}</td>
-                                <td>{new Date(transfer.date).toLocaleDateString()}</td>
-                                <td>{new Date(transfer.updatedAt).toLocaleString()}</td>
                                 <td>
                                   <label>
                                     <input
@@ -208,9 +206,10 @@ function Home() {
                                         )
                                       }
                                     />
-                                    Checked
+                                    Checked at:
                                   </label>
                                 </td>
+                                <td>{new Date(transfer.updatedAt).toLocaleString()}</td>
                               </tr>
                             ))}
                         </tbody>
