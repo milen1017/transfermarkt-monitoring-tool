@@ -23,7 +23,7 @@ const transferSchema = new mongoose.Schema({
   },
   checked: {
     type: Boolean,
-    default: true,
+    default: false,
   },
   leagueID: {
     type: String,

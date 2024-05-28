@@ -1,8 +1,14 @@
 const express = require("express");
+require("dotenv").config();
 const Url = require("../models/Url");
-const router = express.Router();
 const Transfer = require("../models/Transfer");
+const User = require("../models/User");
+const jwt = require("jsonwebtoken");
+const bcrypt = require("bcryptjs");
+
 const { scrapeAndSaveAllLeagues } = require("../utils");
+
+const router = express.Router();
 
 // Endpoint to trigger scraping and saving transfers for all leagues
 router.post("/api/scrape-transfers", async (req, res) => {
@@ -22,7 +28,6 @@ router.post("/api/url", async (req, res) => {
   const { url, leagueName, id } = req.body;
 
   try {
-    // Save the data to MongoDB
     const newUrl = new Url({
       url,
       leagueName,
@@ -31,12 +36,8 @@ router.post("/api/url", async (req, res) => {
 
     await newUrl.save();
 
-    // Optionally, you can call your scrape function here
-    // scrapeTransfers(url, id);
-
     console.log("Received URL:", url, "name", leagueName, "id", id);
 
-    // Sending back a response for demonstration purposes
     res.send(`Received URL: ${url}`);
   } catch (err) {
     console.error(err.message);
@@ -47,7 +48,7 @@ router.post("/api/url", async (req, res) => {
 // Route to fetch all saved leagues
 router.get("/api/leagues", async (req, res) => {
   try {
-    const leagues = await Url.find(); // Fetch all documents in the Url collection
+    const leagues = await Url.find();
     res.json(leagues);
   } catch (err) {
     console.error(err.message);
@@ -87,6 +88,79 @@ router.put("/api/transfers/:transferID", async (req, res) => {
   } catch (error) {
     console.error("Error updating transfer:", error);
     res.status(500).send("Error updating transfer.");
+  }
+});
+
+router.post("/api/auth/register", async (req, res) => {
+  const { username, password } = req.body;
+
+  try {
+    const userExists = await User.findOne({ username });
+
+    if (userExists) {
+      return res.status(400).json({ message: "User already exists" });
+    }
+
+    const user = new User({
+      username,
+      password, // This will trigger the pre-save hook to hash the password
+    });
+
+    await user.save();
+
+    console.log('User registered:', user);
+
+    const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
+      expiresIn: "30d",
+    });
+
+    res.status(201).json({
+      _id: user._id,
+      username: user.username,
+      token,
+    });
+  } catch (error) {
+    console.error('Error during registration:', error); // Debug log
+    res.status(500).json({ message: error.message });
+  }
+});
+
+// Login Route
+
+router.post("/api/auth/login", async (req, res) => {
+  const { username, password } = req.body;
+
+  try {
+    const user = await User.findOne({ username });
+
+    if (!user) {
+      console.log('User not found'); // Debug log
+      return res.status(401).json({ message: "Invalid username or password" });
+    }
+
+    console.log('Stored Hashed Password:', user.password); // Log stored hashed password
+    console.log('Input Password:', password); // Log input password
+
+    const isMatch = await bcrypt.compare(password, user.password);
+    console.log('Password Match:', isMatch); // Log password match result
+
+    if (isMatch) {
+      const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
+        expiresIn: "30d",
+      });
+
+      return res.json({
+        _id: user._id,
+        username: user.username,
+        token,
+      });
+    } else {
+      console.log('Password does not match'); // Debug log
+      return res.status(401).json({ message: "Invalid username or password" });
+    }
+  } catch (error) {
+    console.error('Error during login:', error); // Debug log
+    res.status(500).json({ message: error.message });
   }
 });
 
