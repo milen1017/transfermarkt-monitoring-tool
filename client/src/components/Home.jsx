@@ -10,7 +10,7 @@ function Home() {
 
   const fetchLeagues = async () => {
     try {
-      const response = await axios.get("http://localhost:3000/api/leagues");
+      const response = await axios.get(`${import.meta.env.VITE_BASE_URL}api/leagues`);
       setLeagues(response.data);
     } catch (error) {
       console.error("Error fetching leagues:", error);
@@ -34,7 +34,7 @@ function Home() {
   const handleScrapeAndSave = async () => {
     setLoading(true);
     try {
-      await axios.post("http://localhost:3000/api/scrape-transfers");
+      await axios.post(`${import.meta.env.VITE_BASE_URL}api/scrape-transfers`);
       fetchLeagues(); // Re-fetch leagues to update the data
     } catch (error) {
       console.error("Error during scraping and saving transfers:", error);
@@ -46,7 +46,7 @@ function Home() {
   const fetchTransfers = async (leagueID) => {
     try {
       const response = await axios.get(
-        `http://localhost:3000/api/transfers/${leagueID}`
+        `${import.meta.env.VITE_BASE_URL}api/transfers/${leagueID}`
       );
       setTransfers((prevTransfers) => ({
         ...prevTransfers,
@@ -60,7 +60,7 @@ function Home() {
   const handleCheckTransfer = async (transferID, checked) => {
     try {
       const response = await axios.put(
-        `http://localhost:3000/api/transfers/${transferID}`,
+        `${import.meta.env.VITE_BASE_URL}api/transfers/${transferID}`,
         { checked }
       );
       const updatedTransfer = response.data;

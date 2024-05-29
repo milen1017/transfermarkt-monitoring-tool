@@ -20,7 +20,7 @@ function AddLeague() {
     const id = match[1];
 
     try {
-      const response = await axios.post('http://localhost:3000/api/url', {
+      const response = await axios.post(`${import.meta.env.VITE_BASE_URL}api/url`, {
         url,
         id,
         leagueName,
@@ -29,6 +29,7 @@ function AddLeague() {
       setError('');
     } catch (error) {
       console.error('Error submitting URL:', error);
+      setError('Error submitting URL');
     }
   };
 

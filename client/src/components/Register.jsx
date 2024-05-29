@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
-axios.defaults.baseURL = 'http://localhost:3000';
+
 
 
 const Register = () => {
@@ -12,7 +12,7 @@ const Register = () => {
     e.preventDefault();
 
     try {
-      const { data } = await axios.post("/api/auth/register", {
+      const { data } = await axios.post(`${import.meta.env.VITE_BASE_URL}api/auth/register`, {
         username,
         password,
       });
