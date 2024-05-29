@@ -25,6 +25,8 @@ function Home() {
     if (leagues.length > 0) {
       leagues.forEach((league) => {
         fetchTransfers(league.id);
+        setShowUncheckedTransfers((prev) => ({ ...prev, [league.id]: true }));
+        setShowCheckedTransfers((prev) => ({ ...prev, [league.id]: false }));
       });
     }
   }, [leagues]);
@@ -75,15 +77,15 @@ function Home() {
     }
   };
 
-  const toggleShowCheckedTransfers = (leagueID) => {
-    setShowCheckedTransfers((prevState) => ({
+  const toggleShowUncheckedTransfers = (leagueID) => {
+    setShowUncheckedTransfers((prevState) => ({
       ...prevState,
       [leagueID]: !prevState[leagueID],
     }));
   };
 
-  const toggleShowUncheckedTransfers = (leagueID) => {
-    setShowUncheckedTransfers((prevState) => ({
+  const toggleShowCheckedTransfers = (leagueID) => {
+    setShowCheckedTransfers((prevState) => ({
       ...prevState,
       [leagueID]: !prevState[leagueID],
     }));
@@ -92,8 +94,12 @@ function Home() {
   return (
     <div>
       <h1>Transfermarkt monitoring tool</h1>
-     
-      <button onClick={handleScrapeAndSave} disabled={loading} className="button-spacing">
+
+      <button
+        onClick={handleScrapeAndSave}
+        disabled={loading}
+        className="button-spacing"
+      >
         {loading ? "Processing..." : "Scrape and Save Transfers"}
       </button>
       <h2>Leagues</h2>
@@ -104,7 +110,6 @@ function Home() {
               <a href={league.url} target="_blank" rel="noopener noreferrer">
                 {league.leagueName}
               </a>{" "}
-            
               <button
                 onClick={() => toggleShowUncheckedTransfers(league.id)}
                 className="button-spacing"
@@ -123,52 +128,68 @@ function Home() {
               </button>
               {transfers[league.id] && (
                 <div>
-                  {showUncheckedTransfers[league.id] && (
-                    <div>
-                      <h3>New Transfers</h3>
-                      <table>
-                        <thead>
-                          <tr>
-                            <th>Name</th>
-                            <th>Position</th>
-                            <th>Date</th>
-                            <th>From Team</th>
-                            <th>To Team</th>
-                            <th>Actions</th>
-                          </tr>
-                        </thead>
-                        <tbody>
-                          {transfers[league.id]
-                            .filter((transfer) => !transfer.checked)
-                            .sort((a, b) => new Date(b.date) - new Date(a.date)) // Sort by date, newer to older
-                            .map((transfer) => (
-                              <tr key={transfer._id}>
-                                <td><strong>{transfer.name}</strong></td>
-                                <td>{transfer.position}</td>
-                                <td>{new Date(transfer.date).toLocaleDateString()}</td>
-                                <td>{transfer.fromTeam}</td>
-                                <td>{transfer.toTeam}</td>
-                                <td>
-                                  <label>
-                                    <input
-                                      type="checkbox"
-                                      checked={transfer.checked}
-                                      onChange={(e) =>
-                                        handleCheckTransfer(
-                                          transfer._id,
-                                          e.target.checked
-                                        )
-                                      }
-                                    />
-                                    Check
-                                  </label>
-                                </td>
-                              </tr>
-                            ))}
-                        </tbody>
-                      </table>
-                    </div>
-                  )}
+                  {showUncheckedTransfers[league.id] &&
+                    transfers[league.id].some(
+                      (transfer) => !transfer.checked
+                    ) && (
+                      <div className="table-container">
+                        <h3>New Transfers</h3>
+                        <table>
+                          <thead>
+                            <tr>
+                              <th>Name</th>
+                              <th>Position</th>
+                              <th>Date</th>
+                              <th>From Team</th>
+                              <th>To Team</th>
+                              <th>Last scrape</th>
+                              <th>Check</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            {transfers[league.id]
+                              .filter((transfer) => !transfer.checked)
+                              .sort(
+                                (a, b) => new Date(b.date) - new Date(a.date)
+                              ) // Sort by date, newer to older
+                              .map((transfer) => (
+                                <tr key={transfer._id}>
+                                  <td>
+                                    <strong>{transfer.name}</strong>
+                                  </td>
+                                  <td>{transfer.position}</td>
+                                  <td>
+                                    {new Date(
+                                      transfer.date
+                                    ).toLocaleDateString()}
+                                  </td>
+                                  <td>{transfer.fromTeam}</td>
+                                  <td>{transfer.toTeam}</td>
+                                  <td>
+                                    {new Date(
+                                      transfer.updatedAt
+                                    ).toLocaleString()}
+                                  </td>
+                                  <td>
+                                    <label>
+                                      <input
+                                        type="checkbox"
+                                        checked={transfer.checked}
+                                        onChange={(e) =>
+                                          handleCheckTransfer(
+                                            transfer._id,
+                                            e.target.checked
+                                          )
+                                        }
+                                      />
+                                    </label>
+                                  </td>
+                                </tr>
+                              ))}
+                          </tbody>
+                        </table>
+                      </div>
+                    )}
                   {showCheckedTransfers[league.id] && (
                     <div>
                       <h3>Checked Transfers</h3>
@@ -180,7 +201,8 @@ function Home() {
                             <th>Date</th>
                             <th>From Team</th>
                             <th>To Team</th>
-                            <th>Actions</th>
+                            <th>Last scrape</th>
+                            <th>Checked</th>
                           </tr>
                         </thead>
                         <tbody>
@@ -189,11 +211,21 @@ function Home() {
                             .sort((a, b) => new Date(b.date) - new Date(a.date)) // Sort by date, newer to older
                             .map((transfer) => (
                               <tr key={transfer._id}>
-                                <td><strong>{transfer.name}</strong></td>
+                                <td>
+                                  <strong>{transfer.name}</strong>
+                                </td>
                                 <td>{transfer.position}</td>
-                                <td>{new Date(transfer.date).toLocaleDateString()}</td>
+                                <td>
+                                  {new Date(transfer.date).toLocaleDateString()}
+                                </td>
                                 <td>{transfer.fromTeam}</td>
                                 <td>{transfer.toTeam}</td>
+                                <td>
+                                  {" "}
+                                  {new Date(
+                                    transfer.updatedAt
+                                  ).toLocaleString()}
+                                </td>
                                 <td>
                                   <label>
                                     <input
@@ -206,10 +238,8 @@ function Home() {
                                         )
                                       }
                                     />
-                                    Checked at:
                                   </label>
                                 </td>
-                                <td>{new Date(transfer.updatedAt).toLocaleString()}</td>
                               </tr>
                             ))}
                         </tbody>

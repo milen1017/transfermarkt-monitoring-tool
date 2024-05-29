@@ -67,13 +67,9 @@ button:focus-visible {
   }
 }
 
-/* Define a common class for button spacing */
-.button-spacing {
-  margin-right: 10px; /* Adjust this value as needed */
-}
 
-/* Ensure the last button does not have a right margin */
-.button-spacing:last-child {
-  margin-right: 0;
-}
+
+
+
+
 
