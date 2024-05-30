@@ -36,6 +36,7 @@ function AddLeague() {
   return (
     <div>
       <h1>Add League</h1>
+      <p>the scraper works only with transfermarkt.com detailed latest transfer pages example : https://www.transfermarkt<b>.com</b>/premier-league/letztetransfers/wettbewerb/GB1<b>/plus/1</b></p>
       <form onSubmit={handleSubmit}>
         <input
           type="text"

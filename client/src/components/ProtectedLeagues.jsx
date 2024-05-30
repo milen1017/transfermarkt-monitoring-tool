@@ -92,7 +92,7 @@ function ProtectedLeagues() {
   };
 
   return (
-    <div>
+    <div className="leagues">
       <button
         onClick={handleScrapeAndSave}
         disabled={loading}
