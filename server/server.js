@@ -12,7 +12,7 @@ connectDB();
 
 app.use(bodyParser.json());
 app.use(cors({
-  origin: '*',
+  origin: 'http://localhost:5173'||"https://transfermarkt-monitoring-tool-m6g0zflzt-milen1017s-projects.vercel.app" || 'http://localhost:3000' , // Replace with your front-end URL
   credentials: true,
   methods: ['GET', 'POST', 'PUT', 'DELETE'],
   allowedHeaders: ['Content-Type', 'Authorization'],
