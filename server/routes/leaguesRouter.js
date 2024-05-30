@@ -6,6 +6,7 @@ const User = require("../models/User");
 const jwt = require("jsonwebtoken");
 const bcrypt = require("bcryptjs");
 
+
 const { scrapeAndSaveAllLeagues } = require("../utils");
 
 const router = express.Router();
@@ -127,41 +128,76 @@ router.post("/api/auth/register", async (req, res) => {
 
 // Login Route
 
-router.post("/api/auth/login", async (req, res) => {
+
+
+router.post('/api/auth/login', async (req, res) => {
   const { username, password } = req.body;
 
   try {
     const user = await User.findOne({ username });
 
     if (!user) {
-      console.log('User not found'); // Debug log
-      return res.status(401).json({ message: "Invalid username or password" });
+      return res.status(401).json({ message: 'Invalid username or password' });
     }
 
-    console.log('Stored Hashed Password:', user.password); // Log stored hashed password
-    console.log('Input Password:', password); // Log input password
-
     const isMatch = await bcrypt.compare(password, user.password);
-    console.log('Password Match:', isMatch); // Log password match result
 
     if (isMatch) {
       const token = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
-        expiresIn: "30d",
+        expiresIn: '30d',
+      });
+
+      res.cookie('authToken', token, {
+        httpOnly: true,
+        secure: process.env.NODE_ENV === 'production',
+        maxAge: 30 * 24 * 60 * 60 * 1000, // 30 days
       });
 
       return res.json({
         _id: user._id,
         username: user.username,
-        token,
+        token, // Include token in the response for frontend storage
       });
     } else {
-      console.log('Password does not match'); // Debug log
-      return res.status(401).json({ message: "Invalid username or password" });
+      return res.status(401).json({ message: 'Invalid username or password' });
     }
   } catch (error) {
-    console.error('Error during login:', error); // Debug log
     res.status(500).json({ message: error.message });
   }
 });
+
+module.exports = router;
+
+
+router.get('/api/auth/check-auth', (req, res) => {
+  const token = req.cookies.authToken;
+
+  if (!token) {
+    return res.status(401).json({ message: 'Not authenticated' });
+  }
+
+  try {
+    const decoded = jwt.verify(token, process.env.JWT_SECRET);
+    User.findById(decoded.id).select('-password').then(user => {
+      if (!user) {
+        return res.status(401).json({ message: 'Not authenticated' });
+      }
+
+      res.json({ token, user });
+    });
+  } catch (error) {
+    res.status(401).json({ message: 'Not authenticated' });
+  }
+});
+
+
+router.post('/api/auth/logout', (req, res) => {
+  res.clearCookie('authToken', {
+    httpOnly: true,
+    secure: process.env.NODE_ENV === 'production',
+  });
+  res.json({ message: 'Logged out' });
+});
+
 
 module.exports = router;

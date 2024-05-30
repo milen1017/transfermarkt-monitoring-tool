@@ -24,8 +24,6 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
 }
@@ -69,7 +67,18 @@ button:focus-visible {
 
 
 
+.navbar-list {
+  list-style-type: none;
+  display: flex; /* Display items horizontally */
+  justify-content: flex-end; /* Align items to the right */
+  padding: 0;
+}
 
+.navbar-list li {
+  margin-left: 20px; /* Add spacing between items */
+  color: white;
+}
 
-
-
+.navbar-list li.username {
+  margin-right: auto; /* Push username to the far right */
+}

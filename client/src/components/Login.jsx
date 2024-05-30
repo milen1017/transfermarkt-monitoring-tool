@@ -1,26 +1,24 @@
 import React, { useState } from 'react';
-import axios from 'axios';
+import { useNavigate } from 'react-router-dom';
+import { useAuth } from '../context/AuthContext';
 
-function Login() {
+const Login = () => {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
-  const [message, setMessage] = useState('');
+  const [error, setError] = useState('');
+  const { login } = useAuth();
+  const navigate = useNavigate();
 
   const handleSubmit = async (e) => {
     e.preventDefault();
+    setError('');
+
     try {
-      const response = await axios.post(`${import.meta.env.VITE_BASE_URL}api/auth/login`, {
-        username,
-        password,
-      }, {
-        headers: {
-          'Content-Type': 'application/json',
-        },
-      });
-  
-      setMessage(`Welcome ${response.data.username}`);
+      await login(username, password);
+      navigate('/');
     } catch (error) {
-      setMessage('Invalid username or password');
+      console.error('Login error', error);
+      setError('Login failed: ' + (error.response?.data?.message || 'Server error'));
     }
   };
 
@@ -28,27 +26,23 @@ function Login() {
     <div>
       <h1>Login</h1>
       <form onSubmit={handleSubmit}>
-        <div>
-          <label>Username:</label>
-          <input
-            type="text"
-            value={username}
-            onChange={(e) => setUsername(e.target.value)}
-          />
-        </div>
-        <div>
-          <label>Password:</label>
-          <input
-            type="password"
-            value={password}
-            onChange={(e) => setPassword(e.target.value)}
-          />
-        </div>
+        <input
+          type="text"
+          value={username}
+          onChange={(e) => setUsername(e.target.value)}
+          placeholder="Username"
+        />
+        <input
+          type="password"
+          value={password}
+          onChange={(e) => setPassword(e.target.value)}
+          placeholder="Password"
+        />
         <button type="submit">Login</button>
       </form>
-      {message && <p>{message}</p>}
+      {error && <div style={{ color: 'red' }}>{error}</div>}
     </div>
   );
-}
+};
 
 export default Login;

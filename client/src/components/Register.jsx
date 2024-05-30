@@ -26,6 +26,8 @@ const Register = () => {
   };
 
   return (
+    <div>
+      <h1>Register</h1>
     <form onSubmit={handleSubmit}>
       <input
         type="text"
@@ -44,6 +46,7 @@ const Register = () => {
       <button type="submit">Register</button>
       {error && <div style={{ color: "red" }}>{error}</div>}
     </form>
+    </div>
   );
 };
 
