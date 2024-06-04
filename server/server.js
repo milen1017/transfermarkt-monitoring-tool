@@ -9,15 +9,12 @@ const app = express();
 
 // Connect to MongoDB
 connectDB();
+const allowedOrigins = process.env.ALLOWED_ORIGINS || 'http://localhost:5173';
 
 app.use(bodyParser.json());
 app.use(
   cors({
-    origin: [
-      "http://localhost:5173",
-      "https://transfermarkt-monitoring-tool-m6g0zflzt-milen1017s-projects.vercel.app",
-      "https://transfermarkt-monitoring-tool-5p5ki1mwm-milen1017s-projects.vercel.app/", // Add any other allowed origins
-    ],
+    origin: allowedOrigins,
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
